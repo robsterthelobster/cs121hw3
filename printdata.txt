@@ -1,0 +1,299 @@
+Docid: 1
+URL: http://www.ics.uci.edu/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/'
+Parent page: null
+Anchor text: null
+Text length: 4314
+Html length: 34714
+Number of outgoing links: 100
+http://www.ics.uci.edu/,100
+
+-----
+Docid: 2
+URL: http://www.ics.uci.edu/about/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » About
+Text length: 4615
+Html length: 16247
+Number of outgoing links: 94
+http://www.ics.uci.edu/about/,94
+
+-----
+Docid: 52
+URL: http://www.ics.uci.edu/involved/information_session
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/information_session'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » Information Sessions
+Text length: 3945
+Html length: 14930
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/information_session,86
+
+-----
+Docid: 60
+URL: http://www.ics.uci.edu/about/bren/index.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/bren/index.php'
+Parent page: http://www.ics.uci.edu/about/
+Anchor text: adopted benefactor Donald Bren's name in recognition of his generous                 contribution
+Text length: 4414
+Html length: 15828
+Number of outgoing links: 95
+http://www.ics.uci.edu/about/bren/index.php,95
+
+-----
+Docid: 3
+URL: http://www.ics.uci.edu/about/about_mission.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/about_mission.php'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » Bren ICS Mission
+Text length: 3515
+Html length: 14665
+Number of outgoing links: 91
+http://www.ics.uci.edu/about/about_mission.php,91
+
+-----
+Docid: 61
+URL: http://www.ics.uci.edu/faculty/area/index.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/faculty/area/index.php'
+Parent page: http://www.ics.uci.edu/about/
+Anchor text: conducts cutting-edge research
+Text length: 10938
+Html length: 23846
+Number of outgoing links: 125
+http://www.ics.uci.edu/faculty/area/index.php,125
+
+-----
+Docid: 73
+URL: http://www.ics.uci.edu/about/bren/bren_vision.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/bren/bren_vision.php'
+Parent page: http://www.ics.uci.edu/about/bren/index.php
+Anchor text: Vision for the gift
+Text length: 4740
+Html length: 16298
+Number of outgoing links: 96
+http://www.ics.uci.edu/about/bren/bren_vision.php,96
+
+-----
+Docid: 66
+URL: http://www.ics.uci.edu/involved/tech_talk.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/tech_talk.php'
+Parent page: http://www.ics.uci.edu/involved/information_session
+Anchor text: Tech Talks
+Text length: 3468
+Html length: 14409
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/tech_talk.php,86
+
+-----
+Docid: 53
+URL: http://www.ics.uci.edu/involved/project_class
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/project_class'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » Sponsor Projects
+Text length: 4274
+Html length: 15800
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/project_class,86
+
+-----
+Docid: 67
+URL: http://www.ics.uci.edu/involved/information_session.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/information_session.php'
+Parent page: http://www.ics.uci.edu/involved/information_session
+Anchor text: Information Sessions
+Text length: 3945
+Html length: 14930
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/information_session.php,86
+
+-----
+Docid: 74
+URL: http://www.ics.uci.edu/about/bren/bren_about.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/bren/bren_about.php'
+Parent page: http://www.ics.uci.edu/about/bren/index.php
+Anchor text: About Donald Bren
+Text length: 7847
+Html length: 19685
+Number of outgoing links: 97
+http://www.ics.uci.edu/about/bren/bren_about.php,97
+
+-----
+Docid: 77
+URL: http://www.ics.uci.edu/faculty/area/area_algorithms.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/faculty/area/area_algorithms.php'
+Parent page: http://www.ics.uci.edu/faculty/area/index.php
+Anchor text: Algorithms  and Complexity
+Text length: 3496
+Html length: 15790
+Number of outgoing links: 91
+http://www.ics.uci.edu/faculty/area/area_algorithms.php,91
+
+-----
+Docid: 62
+URL: http://www.ics.uci.edu/ugrad/index.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/ugrad/index.php'
+Parent page: http://www.ics.uci.edu/about/
+Anchor text: Undergraduate education
+Text length: 5785
+Html length: 21784
+Number of outgoing links: 96
+http://www.ics.uci.edu/ugrad/index.php,96
+
+-----
+Docid: 4
+URL: http://www.ics.uci.edu/about/about_deanmsg.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/about_deanmsg.php'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » Dean's Welcome
+Text length: 4266
+Html length: 15779
+Number of outgoing links: 94
+http://www.ics.uci.edu/about/about_deanmsg.php,94
+
+-----
+Docid: 109
+URL: http://www.ics.uci.edu/ugrad/sao/Appts_Walk-Ins.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/ugrad/sao/Appts_Walk-Ins.php'
+Parent page: http://www.ics.uci.edu/ugrad/index.php
+Anchor text: Appointments and Walk-In Advising
+Text length: 4074
+Html length: 18545
+Number of outgoing links: 96
+http://www.ics.uci.edu/ugrad/sao/Appts_Walk-Ins.php,96
+
+-----
+Docid: 63
+URL: http://www.ics.uci.edu/grad/index.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/grad/index.php'
+Parent page: http://www.ics.uci.edu/about/
+Anchor text: Graduate studies
+Text length: 4663
+Html length: 17590
+Number of outgoing links: 89
+http://www.ics.uci.edu/grad/index.php,89
+
+-----
+Docid: 100
+URL: http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mbdillen
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/faculty/profiles/view_faculty.php'
+Parent page: http://www.ics.uci.edu/faculty/area/area_algorithms.php
+Anchor text: Michael  Dillencourt
+Text length: 3290
+Html length: 15208
+Number of outgoing links: 83
+http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=mbdillen,83
+
+-----
+Docid: 75
+URL: http://www.ics.uci.edu/about/bren/bren_advance.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/bren/bren_advance.php'
+Parent page: http://www.ics.uci.edu/about/bren/index.php
+Anchor text: Advancing the school
+Text length: 3906
+Html length: 15953
+Number of outgoing links: 96
+http://www.ics.uci.edu/about/bren/bren_advance.php,96
+
+-----
+Docid: 68
+URL: http://www.ics.uci.edu/involved/project_class.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/project_class.php'
+Parent page: http://www.ics.uci.edu/involved/information_session
+Anchor text: Sponsor a Project Class
+Text length: 4274
+Html length: 15800
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/project_class.php,86
+
+-----
+Docid: 54
+URL: http://www.ics.uci.edu/involved/leadership_council
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/leadership_council'
+Parent page: http://www.ics.uci.edu/
+Anchor text: » Leadership Council
+Text length: 5043
+Html length: 16834
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/leadership_council,86
+
+-----
+Docid: 69
+URL: http://www.ics.uci.edu/involved/leadership_council.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/involved/leadership_council.php'
+Parent page: http://www.ics.uci.edu/involved/information_session
+Anchor text: Dean’s Leadership Council
+Text length: 5043
+Html length: 16834
+Number of outgoing links: 86
+http://www.ics.uci.edu/involved/leadership_council.php,86
+
+-----
+Docid: 76
+URL: http://www.ics.uci.edu/about/bren/bren_press.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/about/bren/bren_press.php'
+Parent page: http://www.ics.uci.edu/about/bren/index.php
+Anchor text: Renaming press room
+Text length: 4329
+Html length: 23444
+Number of outgoing links: 134
+http://www.ics.uci.edu/about/bren/bren_press.php,134
+
+-----
+Docid: 78
+URL: http://www.ics.uci.edu/faculty/area/area_ai.php
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/faculty/area/area_ai.php'
+Parent page: http://www.ics.uci.edu/faculty/area/index.php
+Anchor text: Artificial  Intelligence and Machine Learning
+Text length: 3718
+Html length: 17015
+Number of outgoing links: 99
+http://www.ics.uci.edu/faculty/area/area_ai.php,99
+
+-----
