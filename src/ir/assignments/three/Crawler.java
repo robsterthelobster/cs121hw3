@@ -42,15 +42,16 @@ public class Crawler extends WebCrawler{
 
 	@Override
 	public void visit(Page page){
+		//common words
 		if (page.getParseData() instanceof HtmlParseData) {
 			HtmlParseData parseData = (HtmlParseData) page.getParseData();
 			try {
 				writer = new BufferedWriter(new FileWriter(Controller.wordFile, true));
 				writer.write( parseData.getText());
+				writer.close();
 			} catch (IOException e) {
 				e.printStackTrace();
 			}
-			parseData.getText();
 		}
 
 		try {
@@ -80,6 +81,11 @@ public class Crawler extends WebCrawler{
 				String html = htmlParseData.getHtml();
 				List<WebURL> links = htmlParseData.getOutgoingUrls();
 
+				if(text.length() > Controller.length){
+					Controller.length = text.length();
+					Controller.longest_page = url;
+				}
+				
 				write("Text length: " + text.length());
 				write("Html length: " + html.length());
 				write("Number of outgoing links: " + links.size());
