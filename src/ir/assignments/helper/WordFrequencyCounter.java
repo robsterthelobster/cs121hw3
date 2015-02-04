@@ -1,13 +1,10 @@
-// Valentin Yang #30062256
-// Credits to an answer to a StackOverflow post from ScArcher2 on how to iterate and retrieve key/value pairs in a map
-
 package ir.assignments.helper;
 
 import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
+import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
-import java.util.Map;
 
 /**
  * Counts the total number of words and their frequencies in a text file.
@@ -41,48 +38,50 @@ public final class WordFrequencyCounter {
 	 * 
 	 * The output list of frequencies should be 
 	 * ["sentence:2", "the:1", "this:1", "repeats:1",  "word:1"]
-	 * @param <E>
 	 *  
 	 * @param words A list of words.
 	 * @return A list of word frequencies, ordered by decreasing frequency.
 	 */
-	public static <E> List<Frequency> computeWordFrequencies(List<String> words) {
-		// Create arrayList to store list of word frequencies
-		ArrayList<Frequency> listOfFrequencies = new ArrayList<Frequency>();
-		
-		// Use a map to keep track of words and their frequencies
-		Map<String, Integer> map = new HashMap<String, Integer>();		
-		
-		// This string will keep track of the current word in the list
-		String currentWord;
-		
-		// If the input list is null, an empty list is returned.
-		if(words == null){
-			return listOfFrequencies;
+	public static List<Frequency> computeWordFrequencies(List<String> words) {
+		// TODO Write body!
+		ArrayList<Frequency> frequencies = new ArrayList<Frequency>();
+		for(String word : words){
+			boolean add = true;
+			for(Frequency f : frequencies){
+				if(f.getText().equals(word)){
+					f.incrementFrequency();
+					add = false;
+				}
+			}
+			if(add){
+				Frequency f = new Frequency(word, 1);
+				frequencies.add(f);
+			}
 		}
+		return customSort(frequencies);
+	}
 	
-		// For all the words in the list of words
-		for(int i = 0; i < words.size(); ++i){
-			// Receive a word from the list of words
-			currentWord = words.get(i);
+	// custom sort for frequencies list
+	private static List<Frequency> customSort(ArrayList<Frequency> frequencies){
+		// alpha sort
+		Collections.sort(frequencies, new Comparator<Frequency>(){
+
+			@Override
+			public int compare(Frequency f1, Frequency f2) {
+				return f1.getText().compareTo(f2.getText());
+			}
 			
-			// If the current word is not already on the list of frequencies, add to the list
-			if(map.containsKey(currentWord)){
-				map.put(currentWord, map.get(currentWord) + 1);
+		});
+		// size sort
+		Collections.sort(frequencies, new Comparator<Frequency>(){
+
+			@Override
+			public int compare(Frequency f1, Frequency f2) {
+				return f2.getFrequency() - f1.getFrequency();
 			}
-			// Otherwise, if the current word is in the list of frequencies, increment its count
-			else{
-				map.put(currentWord, 1);
-			}
-		}
-		
-		
-		// Transfer the words and their frequencies onto a List
-		for(Map.Entry<String, Integer> entry : map.entrySet()){
-			listOfFrequencies.add(new Frequency(entry.getKey(), entry.getValue()));
-		}
-		
-		return listOfFrequencies;
+			
+		});
+		return frequencies;
 	}
 	
 	/**

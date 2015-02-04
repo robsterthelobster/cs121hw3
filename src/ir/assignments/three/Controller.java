@@ -4,6 +4,9 @@ import ir.assignments.helper.CommonWords;
 import ir.assignments.helper.Utilities;
 
 import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Scanner;
 
 import edu.uci.ics.crawler4j.crawler.CrawlConfig;
 import edu.uci.ics.crawler4j.crawler.CrawlController;
@@ -45,7 +48,10 @@ public class Controller {
 		controller.start(Crawler.class, numberOfCrawlers);	
 		
 		CommonWords cm = new CommonWords();
+	
 		cm.compute(Utilities.tokenizeFile(new File("word_list.txt")));
+
+		//cm.compute(Utilities.tokenizeFile(new File("word_list.txt")));
 		cm.writeToFile();
 	}
 }

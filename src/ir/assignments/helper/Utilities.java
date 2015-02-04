@@ -1,19 +1,10 @@
-// Valentin Yang #30062256
-
-// Credits to an answer to a post on StackOverflow from the user Penelope the Duck about setting up a string tokenizer.
-// Link: http://stackoverflow.com/questions/13432094/how-to-use-string-tokenizer-when-reading-in-from-a-file
-// Credits to answers to a post on StackOverflow from Amber and Omega about spliting on non-alphanumeric characters
-// Link: http://stackoverflow.com/questions/11332772/java-string-split-on-all-non-alphanumeric-except-apostrophes
-// Credits to Kyle Copeland and his comment in a Piazza post about using Collections.sort to sort arrayLists
-
 package ir.assignments.helper;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Collections;
+import java.util.Scanner;
 
 /**
  * A collection of utility methods for text processing.
@@ -40,42 +31,26 @@ public class Utilities {
 	 * @return The list of tokens (words) from the input file, ordered by occurrence.
 	 */
 	public static ArrayList<String> tokenizeFile(File input) {
-		ArrayList<String> listOfTokens = new ArrayList<String>();
-		String[] arrayOfTokens;
-		String lineOfText;
-		
+		// TODO Write body!
+		ArrayList<String> tokens = new ArrayList<String>();
 		try {
-			// Create a file reader & buffered reader
-			FileReader fileReader = new FileReader(input);
-			BufferedReader bufferedReader = new BufferedReader(fileReader);
-			
-			// Read input file line by line until the reader reaches EOF
-			while((lineOfText = bufferedReader.readLine()) != null){
-				
-				// Normalize the characters within the line of text to lower case.
-				lineOfText = lineOfText.toLowerCase();
-				
-				// Delineate everything that a non-alphanumeric character (Spaces, symbols)
-				arrayOfTokens = lineOfText.split("[^a-zA-Z0-9']+");
-				
-				// For each index of the array, add each token to the output ArrayList, surrounding each with quotations
-				for (int i = 1; i < arrayOfTokens.length; ++i){
-//					listOfTokens.add("\"" + arrayOfTokens[i] + "\"");
-					listOfTokens.add(arrayOfTokens[i]);
-//					System.out.println(arrayOfTokens[i]);
-				}					
+			Scanner scanner = new Scanner(input);
+			while(scanner.hasNext()){
+				String token = scanner.next();
+				String[] temp = token.split("[^a-zA-Z0-9]");
+				for(String s : temp){
+					if(!s.equals(""))
+						tokens.add(s);
+				}
 			}
-			
-			// Close buffer reader & file reader
-			bufferedReader.close();
-			fileReader.close();			
-			
-		}
-		catch(Exception e){
-			System.out.println(e);
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
 		}
 		
-		return listOfTokens;
+//		for(String s : tokens){
+//			System.out.println(s);
+//		}
+		return tokens;
 	}
 	
 	/**
@@ -118,53 +93,19 @@ public class Utilities {
 	 * @param frequencies A list of frequencies.
 	 */
 	public static void printFrequencies(List<Frequency> frequencies) {
-		// Keep track of total(sum of all word frequencies in the list) and unique counts (size of list) 
+		// TODO Write body!
 		int totalCount = 0;
-		int uniqueCount = frequencies.size();
 		
-		for(int i = 0; i < frequencies.size(); ++i){
-			totalCount += frequencies.get(i).getFrequency();
+		for(Frequency f : frequencies){
+			totalCount += f.getFrequency();
 		}
 		
-		// Print out titles depending whether if input list is 1) word frequencies OR 2) 2-gram frequencies.
-		// Two-grams contain two words separated with a space (" ")
-		if(frequencies.get(0).getText().contains(" ")){
-			System.out.println("Total 2-gram count: " + totalCount);
-			System.out.println("Unique 2-gram count: " + uniqueCount);
-		}
-		else {
-			System.out.println("Total item count: " + totalCount);
-			System.out.println("Unique item count: " + uniqueCount);
-		}
-		
+		System.out.println("Total: " + totalCount);
+		System.out.println("Unique: " + frequencies.size());
 		System.out.println("");
 		
-		// Sort the frequencies in decreasing order of frequencies & alphabetically
-		Collections.sort(frequencies, Collections.reverseOrder(new FrequencyComparator()));
-		
-		// Print out all texts and their frequencies
-		for(int i = 0; i < frequencies.size(); ++i){
-			String text = frequencies.get(i).getText();
-			int textFrequency = frequencies.get(i).getFrequency();
-			System.out.println(text + ": " + textFrequency);
-			// System.out.println(frequencies.get(i).toString());
+		for(Frequency f : frequencies){
+			System.out.println(f.toString());
 		}
-		
 	}
-	
-//	// Main function to test out Utilities.java methods  COMMENT OUT LATER
-//	public static void main(String[] args) {
-//		File file = new File(args[0]);
-//		ArrayList<String> listOfStrings = new ArrayList<String>();
-//		listOfStrings = Utilities.tokenizeFile(file);
-//		System.out.print(listOfStrings);
-//		ArrayList<Frequency> frequencies = new ArrayList<Frequency>();
-//        frequencies.add(new Frequency("a", 2));
-//        frequencies.add(new Frequency("b", 4));
-//        frequencies.add(new Frequency("c", 1));
-//        frequencies.add(new Frequency("z", 2));
-//        frequencies.add(new Frequency("l", 1));
-//        printFrequencies(frequencies);
-//		
-//	}
 }

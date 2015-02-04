@@ -2,12 +2,10 @@ package ir.assignments.helper;
 
 import java.io.BufferedWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class CommonWords {
 	ArrayList<String> stopwords;
@@ -15,20 +13,7 @@ public class CommonWords {
 	List<Frequency> frequencies;
 	
 	public CommonWords(){
-		stopwords = new ArrayList<String>();
-		try {
-			Scanner scanner = new Scanner(new File("stopwords.txt"));
-			while(scanner.hasNext()){
-				String token = scanner.next();
-				String[] temp = token.split("[^a-zA-Z0-9]");
-				for(String s : temp){
-					if(!s.equals(""))
-						stopwords.add(s);
-				}
-			}
-		} catch (FileNotFoundException e) {
-			e.printStackTrace();
-		}
+		stopwords = Utilities.tokenizeFile((new File("stopwords.txt")));
 		System.out.println(stopwords.size());
 		frequencies = new ArrayList<Frequency>();
 	}
