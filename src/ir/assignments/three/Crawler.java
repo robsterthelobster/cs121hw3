@@ -20,6 +20,7 @@ import edu.uci.ics.crawler4j.url.WebURL;
 
 public class Crawler extends WebCrawler{
 
+	PrintStream subdomainPrinter;
 	BufferedWriter writer;
 	ArrayList<String> urls = new ArrayList<String>();
 
@@ -28,15 +29,16 @@ public class Crawler extends WebCrawler{
 					"|mid|mp2|mp3|mp4|wav|wma|au|aiff|flac|ogg|3gp|aac|amr|au|vox" +
 					"|avi|mov|mpe?g|ra?m|m4v|smil|wm?v|swf|aaf|asf|flv|mkv" +
 					"|zip|rar|gz|7z|aac|ace|alz|apk|arc|arj|dmg|jar|lzip|lha|css)" +
-					"(\\?.*)?$"); // For url Query parts ( URL?q=... )
+					"(\\?.*)?$"); // For url Query parts (URL?q=...)
 
 	@Override
 	public boolean shouldVisit(WebURL url){
 		String href = url.getURL().toLowerCase();
 
-		//		return(!BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.contains(".ics.uci.edu") &&
-		//				!href.contains("calendar") && !href.contains("archive"));
-		return(!BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.contains(".ics.uci.edu/~kay"));
+		// return(!BINARY_FILES_EXTENSIONS.matcher(href).matches() && href.contains(".ics.uci.edu/~kay"));
+				return(!FILE_EXTENSIONS.matcher(href).matches() && href.contains(".ics.uci.edu") &&
+				!href.contains("calendar") && !href.contains("archive") && !href.contains("wics.ics") && 
+				!href.contains("fano.ics.uci.edu/ca/rules"));
 
 	}
 
@@ -55,6 +57,7 @@ public class Crawler extends WebCrawler{
 		}
 
 		try {
+			subdomainPrinter = new PrintStream(new FileOutputStream("subdomaindata.txt", true));
 
 			System.out.println(Controller.logFile.getCanonicalPath());
 			writer = new BufferedWriter(new FileWriter(Controller.logFile, true));
@@ -66,6 +69,8 @@ public class Crawler extends WebCrawler{
 			String subDomain = page.getWebURL().getSubDomain();
 			String parentUrl = page.getWebURL().getParentUrl();
 			String anchor = page.getWebURL().getAnchor();
+
+			subdomainPrinter.print(subDomain + "\n");
 
 			write("Docid: " + docid);
 			write("URL: " + url);
@@ -90,13 +95,14 @@ public class Crawler extends WebCrawler{
 				write("Html length: " + html.length());
 				write("Number of outgoing links: " + links.size());
 
-				String outputFormat = url + "," + links.size() + "\n";
-				write(outputFormat);      
+				// String outputFormat = url + "," + links.size() + "\n";
+				// write(outputFormat);      
 
 			}
 
 			write("-----");
 			writer.close();
+			subdomainPrinter.close();
 
 		} catch(Exception e){
 			e.printStackTrace();

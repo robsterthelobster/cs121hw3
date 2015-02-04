@@ -1,3 +1,6 @@
+// Robin Chen    #95812659
+// Valentin Yang #30062256
+
 package ir.assignments.three;
 
 import ir.assignments.helper.CommonWords;
@@ -18,12 +21,13 @@ public class Controller {
 	
 	static File logFile = new File("data" + (int)System.currentTimeMillis()/1000/60 + ".txt");
 	static File wordFile = new File("word_list.txt");
+	static File subdomainFile = new File("subdomaindata.txt");
 	static String longest_page = "";
 	static int length = 0;
 	
 	public static void main(String[] args) throws Exception{
 		String crawlStorageFolder = "C:/cs121hw3";
-		final int politenessDelay = 300;
+		final int politenessDelay = 500;	// Changed from 300ms; sorry ICS domain... :(
 		final String userAgentString = "UCI Inf141-CS121 crawler 95812659 30062256";
 		final int numberOfCrawlers = 8;
 		
@@ -32,7 +36,8 @@ public class Controller {
 		config.setCrawlStorageFolder(crawlStorageFolder);
 		config.setPolitenessDelay(politenessDelay);
 		config.setUserAgentString(userAgentString);
-		//config.setResumableCrawling(true);
+		config.setIncludeHttpsPages(false);
+		config.setResumableCrawling(true);
 		
 		System.out.println(config.toString());
 		
@@ -44,7 +49,7 @@ public class Controller {
 	
 		CrawlController controller = new CrawlController(config, pageFetcher, robotstxtServer);
 		// Add seed URLs
-		controller.addSeed("http://www.ics.uci.edu/~kay/");
+		controller.addSeed("http://www.ics.uci.edu/");
 		
 		// Start crawling
 		controller.start(Crawler.class, numberOfCrawlers);	
