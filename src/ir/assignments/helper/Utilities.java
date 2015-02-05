@@ -40,7 +40,7 @@ public class Utilities {
 				String[] temp = token.split("[^a-zA-Z0-9]");
 				for(String s : temp){
 					if(!s.equals(""))
-						tokens.add(s);
+						tokens.add(s.toLowerCase());
 				}
 			}
 		} catch (FileNotFoundException e) {
