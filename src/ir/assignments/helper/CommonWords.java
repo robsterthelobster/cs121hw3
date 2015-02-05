@@ -34,7 +34,7 @@ public class CommonWords {
 					writer.write(f.getText()+" : "+f.getFrequency() + "\n");
 					count++;
 				}
-				if(count >= 100){
+				if(count >= 500){
 					break;
 				}
 			}

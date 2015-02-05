@@ -20,6 +20,7 @@ public class Controller {
 	static File wordFile = new File("word_list.txt");
 	static String longest_page = "";
 	static int length = 0;
+	static ArrayList<String> tokens = new ArrayList<String>();
 	
 	public static void main(String[] args) throws Exception{
 		String crawlStorageFolder = "C:/cs121hw3";
@@ -50,9 +51,7 @@ public class Controller {
 		controller.start(Crawler.class, numberOfCrawlers);	
 		
 		CommonWords cm = new CommonWords();
-	
-		cm.compute(Utilities.tokenizeFile(new File("word_list.txt")));
-
+		cm.compute(tokens);
 		//cm.compute(Utilities.tokenizeFile(new File("word_list.txt")));
 		cm.writeToFile();
 	}

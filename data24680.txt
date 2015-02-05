@@ -1,0 +1,3543 @@
+Docid: 1
+URL: http://www.ics.uci.edu/~kay/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/'
+Parent page: null
+Anchor text: null
+Text length: 2388
+Html length: 8622
+Number of outgoing links: 28
+http://www.ics.uci.edu/~kay/,28
+
+-----
+Docid: 2
+URL: http://www.ics.uci.edu/~kay/courses/31/w15.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/w15.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS 31 (Introduction to Programming)
+Text length: 16279
+Html length: 29988
+Number of outgoing links: 28
+http://www.ics.uci.edu/~kay/courses/31/w15.html,28
+
+-----
+Docid: 17
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/w15.html
+Anchor text: Assignments
+Text length: 5112
+Html length: 8765
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/31/hw/,10
+
+-----
+Docid: 3
+URL: http://www.ics.uci.edu/~kay/courses/i141/w15.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/w15.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: Informatics 141 / CS 121 (Information Retrieval)
+Text length: 9570
+Html length: 18580
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/i141/w15.html,20
+
+-----
+Docid: 18
+URL: http://www.ics.uci.edu/~kay/courses/31/quiz/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/quiz/'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/w15.html
+Anchor text: Quizzes
+Text length: 5082
+Html length: 11711
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/31/quiz/,25
+
+-----
+Docid: 21
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/lab1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/lab1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: Lab Assignment 1
+Text length: 18423
+Html length: 27537
+Number of outgoing links: 13
+http://www.ics.uci.edu/~kay/courses/31/hw/lab1.html,13
+
+-----
+Docid: 19
+URL: http://www.ics.uci.edu/~kay/courses/31/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/w15.html
+Anchor text: Resources
+Text length: 5846
+Html length: 11249
+Number of outgoing links: 48
+http://www.ics.uci.edu/~kay/courses/31/refs.html,48
+
+-----
+Docid: 4
+URL: http://www.ics.uci.edu/~kay/courses/i141/w15enrollment.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/w15enrollment.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: enrollment information
+Text length: 5275
+Html length: 6334
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i141/w15enrollment.html,2
+
+-----
+Docid: 28
+URL: http://www.ics.uci.edu/~kay/courses/i141/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/w15.html
+Anchor text: Assignments
+Text length: 1130
+Html length: 3228
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/i141/hw/index.html,7
+
+-----
+Docid: 5
+URL: http://www.ics.uci.edu/~kay/labtutors/193.w15.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.w15.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 7025
+Html length: 8823
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.w15.html,9
+
+-----
+Docid: 20
+URL: http://www.ics.uci.edu/~kay/courses/31/collab.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/collab.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/w15.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/31/collab.html
+Text length: 4818
+Html length: 6475
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/31/collab.html,3
+
+-----
+Docid: 31
+URL: http://www.ics.uci.edu/~kay/courses/31/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/refs.html
+Anchor text: Course Reference
+Text length: 16279
+Html length: 29988
+Number of outgoing links: 28
+http://www.ics.uci.edu/~kay/courses/31/,28
+
+-----
+Docid: 22
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/lab2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/lab2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: Lab Assignment 2
+Text length: 22772
+Html length: 32533
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/31/hw/lab2.html,9
+
+-----
+Docid: 32
+URL: http://www.ics.uci.edu/~kay/courses/31/string-formatting.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/string-formatting.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/refs.html
+Anchor text: string formatting
+Text length: 13028
+Html length: 16481
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/31/string-formatting.html,2
+
+-----
+Docid: 6
+URL: http://www.ics.uci.edu/~kay/courses/31/f14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/f14.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS 31 (Introduction to Programming)
+Text length: 17300
+Html length: 33587
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/31/f14.html,27
+
+-----
+Docid: 37
+URL: http://www.ics.uci.edu/~kay/labtutor.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutor.html'
+Parent page: http://www.ics.uci.edu/~kay/labtutors/193.w15.html
+Anchor text: Lab Tutor Guide
+Text length: 10628
+Html length: 13615
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/labtutor.html,1
+
+-----
+Docid: 29
+URL: http://www.ics.uci.edu/~kay/courses/i141/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/w15.html
+Anchor text: Resources
+Text length: 720
+Html length: 2352
+Number of outgoing links: 8
+http://www.ics.uci.edu/~kay/courses/i141/refs.html,8
+
+-----
+Docid: 33
+URL: http://www.ics.uci.edu/~kay/courses/i141/hw/asst1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/hw/asst1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/hw/index.html
+Anchor text: Quantifying big data.
+Text length: 2617
+Html length: 4075
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i141/hw/asst1.html,2
+
+-----
+Docid: 30
+URL: http://www.ics.uci.edu/~kay/courses/i141/collab.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/collab.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/w15.html
+Anchor text: course collaboration   guidelines
+Text length: 2576
+Html length: 4117
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i141/collab.html,3
+
+-----
+Docid: 7
+URL: http://www.ics.uci.edu/~kay/labtutors/193.f14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.f14.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 6475
+Html length: 8266
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.f14.html,9
+
+-----
+Docid: 38
+URL: http://www.ics.uci.edu/~kay/courses/31/f12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/f12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/f14.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/31
+Text length: 15649
+Html length: 28606
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/31/f12.html,25
+
+-----
+Docid: 23
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/lab3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/lab3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: Lab Assignment 3
+Text length: 19498
+Html length: 25621
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/31/hw/lab3.html,10
+
+-----
+Docid: 8
+URL: http://www.ics.uci.edu/~kay/courses/398a/f14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f14.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4778
+Html length: 8621
+Number of outgoing links: 14
+http://www.ics.uci.edu/~kay/courses/398a/f14.html,14
+
+-----
+Docid: 34
+URL: http://www.ics.uci.edu/~kay/courses/i141/hw/asst2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/hw/asst2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/hw/index.html
+Anchor text: Text processing functions.
+Text length: 4157
+Html length: 6064
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i141/hw/asst2.html,3
+
+-----
+Docid: 9
+URL: http://www.ics.uci.edu/~kay/courses/previous.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/previous.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: Previous quarters' courses
+Text length: 11417
+Html length: 24254
+Number of outgoing links: 157
+http://www.ics.uci.edu/~kay/courses/previous.html,157
+
+-----
+Docid: 39
+URL: http://www.ics.uci.edu/~kay/checker.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/checker.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/398a/f14.html
+Anchor text: http://www.ics.uci.edu/~kay/checker.html
+Text length: 4794
+Html length: 6287
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/checker.html,6
+
+-----
+Docid: 24
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/lab4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/lab4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: Lab Assignment 4
+Text length: 16901
+Html length: 24185
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/31/hw/lab4.html,7
+
+-----
+Docid: 128
+URL: http://www.ics.uci.edu/~kay/turnitin.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/turnitin.html'
+Parent page: http://www.ics.uci.edu/~kay/checker.html
+Anchor text: Turnitin.com in ICS
+Text length: 7167
+Html length: 9717
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/turnitin.html,4
+
+-----
+Docid: 90
+URL: http://www.ics.uci.edu/~kay/courses/h21/f08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/f08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS H21 (Introduction to Computer Science I—Honors)
+Text length: 11824
+Html length: 23655
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/h21/f08.html,22
+
+-----
+Docid: 10
+URL: http://www.ics.uci.edu/~kay/labtutors/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: ICS Lab Tutor
+Text length: 7025
+Html length: 8823
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/,9
+
+-----
+Docid: 40
+URL: http://www.ics.uci.edu/~kay/courses/10/su14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/su14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10 (How Computers Work)
+Text length: 10405
+Html length: 19224
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/courses/10/su14.html,19
+
+-----
+Docid: 35
+URL: http://www.ics.uci.edu/~kay/courses/i141/hw/asst3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/hw/asst3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/hw/index.html
+Anchor text: Crawling.
+Text length: 5753
+Html length: 7199
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/i141/hw/asst3.html,6
+
+-----
+Docid: 41
+URL: http://www.ics.uci.edu/~kay/courses/131/su14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 10254
+Html length: 16569
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/131/su14.html,21
+
+-----
+Docid: 11
+URL: http://www.ics.uci.edu/~kay/teachingics.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/teachingics.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: teaching in ICS
+Text length: 1732
+Html length: 3688
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/teachingics.html,9
+
+-----
+Docid: 91
+URL: http://www.ics.uci.edu/~kay/courses/398a/f08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 3872
+Html length: 8746
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/f08.html,10
+
+-----
+Docid: 131
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/f08.html
+Anchor text: Assignments
+Text length: 4510
+Html length: 8749
+Number of outgoing links: 33
+http://www.ics.uci.edu/~kay/courses/h21/hw/,33
+
+-----
+Docid: 130
+URL: http://www.ics.uci.edu/~kay/turnitin.com_guidelines_files/plagiarism-don_t_do_it_.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/turnitin.com_guidelines_files/plagiarism-don_t_do_it_.html'
+Parent page: http://www.ics.uci.edu/~kay/turnitin.html
+Anchor text: enhanced sample
+Text length: 1895
+Html length: 2773
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/turnitin.com_guidelines_files/plagiarism-don_t_do_it_.html,0
+
+-----
+Docid: 25
+URL: http://www.ics.uci.edu/~kay/courses/31/hw/lab5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/hw/lab5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: Lab Assignment 5
+Text length: 20142
+Html length: 25322
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/31/hw/lab5.html,6
+
+-----
+Docid: 129
+URL: http://www.ics.uci.edu/~kay/python/restaurants.py
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/python/restaurants.py'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/lab4.html
+Anchor text: http://www.ics.uci.edu/~kay/python/restaurants.py
+-----
+Docid: 26
+URL: http://www.ics.uci.edu/~kay/courses/31/pair.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/pair.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: specific guidelines
+Text length: 7235
+Html length: 9662
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/31/pair.html,5
+
+-----
+Docid: 141
+URL: http://www.ics.uci.edu/~kay/teaching_in_ics_files/commstrategies.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/teaching_in_ics_files/commstrategies.html'
+Parent page: http://www.ics.uci.edu/~kay/teachingics.html
+Anchor text: strategies for effective communication
+Text length: 1981
+Html length: 3218
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/teaching_in_ics_files/commstrategies.html,0
+
+-----
+Docid: 132
+URL: http://www.ics.uci.edu/~kay/courses/i41/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/f08.html
+Anchor text: Additional references
+Text length: 5579
+Html length: 11795
+Number of outgoing links: 46
+http://www.ics.uci.edu/~kay/courses/i41/refs.html,46
+
+-----
+Docid: 92
+URL: http://www.ics.uci.edu/~kay/courses/131/su08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 8831
+Html length: 17343
+Number of outgoing links: 23
+http://www.ics.uci.edu/~kay/courses/131/su08.html,23
+
+-----
+Docid: 12
+URL: http://www.ics.uci.edu/~kay/college.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/college.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: different from high school
+Text length: 8986
+Html length: 11487
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/college.html,2
+
+-----
+Docid: 42
+URL: http://www.ics.uci.edu/~kay/courses/10/s14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/s14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10 (How Computers Work)
+Text length: 10605
+Html length: 19257
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/courses/10/s14.html,19
+
+-----
+Docid: 36
+URL: http://www.ics.uci.edu/~kay/courses/i141/hw/asst4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i141/hw/asst4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i141/hw/index.html
+Anchor text: Text analysis
+Text length: 6104
+Html length: 7759
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/i141/hw/asst4.html,5
+
+-----
+Docid: 43
+URL: http://www.ics.uci.edu/~kay/labtutors/193.s14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.s14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 6440
+Html length: 8231
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.s14.html,9
+
+-----
+Docid: 13
+URL: http://www.ics.uci.edu/~kay/college-advice/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/college-advice/'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: additional tips
+Text length: 10421
+Html length: 60792
+Number of outgoing links: 68
+http://www.ics.uci.edu/~kay/college-advice/,68
+
+-----
+Docid: 93
+URL: http://www.ics.uci.edu/~kay/courses/269/s08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/s08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 269 (Computer Law)
+Text length: 2086
+Html length: 7056
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/269/s08.html,4
+
+-----
+Docid: 142
+URL: http://www.ics.uci.edu/~kay/taguide.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/taguide.html'
+Parent page: http://www.ics.uci.edu/~kay/teachingics.html
+Anchor text: ICS 31/32/33 Guide
+Text length: 32277
+Html length: 38982
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/taguide.html,4
+
+-----
+Docid: 27
+URL: http://www.ics.uci.edu/~kay/courses/31/design-recipe.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/design-recipe.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/
+Anchor text: design recipe
+Text length: 4568
+Html length: 6195
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/31/design-recipe.html,3
+
+-----
+Docid: 166
+URL: http://www.ics.uci.edu/~kay/python/RP0.py
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/python/RP0.py'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/hw/lab5.html
+Anchor text: first version of the restaurants program
+-----
+Docid: 143
+URL: http://www.ics.uci.edu/~kay/ask.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/ask.html'
+Parent page: http://www.ics.uci.edu/~kay/teachingics.html
+Anchor text: What to Ask the Instructor
+Text length: 9125
+Html length: 14636
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/ask.html,19
+
+-----
+Docid: 134
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/f08.html
+Anchor text: Weekly homeworks and lab assignments
+Text length: 4510
+Html length: 8749
+Number of outgoing links: 33
+http://www.ics.uci.edu/~kay/courses/h21/hw/index.html,33
+
+-----
+Docid: 94
+URL: http://www.ics.uci.edu/~kay/courses/398b/s08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced TA Seminar)
+Text length: 2554
+Html length: 7767
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/398b/s08.html,6
+
+-----
+Docid: 14
+URL: http://www.ics.uci.edu/~kay/choosing.courses.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/choosing.courses.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: Thinking about choosing courses?
+Text length: 1581
+Html length: 1951
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/choosing.courses.html,1
+
+-----
+Docid: 44
+URL: http://www.ics.uci.edu/~kay/courses/31/w14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/w14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 31 (Introduction to Programming)
+Text length: 15986
+Html length: 29841
+Number of outgoing links: 26
+http://www.ics.uci.edu/~kay/courses/31/w14.html,26
+
+-----
+Docid: 167
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/evalcomments.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/31/pair.html
+Anchor text: partner evaluation comments
+Text length: 9153
+Html length: 12646
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/courses/i41/hw/evalcomments.html,0
+
+-----
+Docid: 45
+URL: http://www.ics.uci.edu/~kay/courses/269/w14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/w14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 269 (Computer Law)
+Text length: 2581
+Html length: 6737
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/269/w14.html,6
+
+-----
+Docid: 15
+URL: http://www.ics.uci.edu/~kay/recommendations.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/recommendations.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: Need a letter of recommendation?
+Text length: 2480
+Html length: 2799
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/recommendations.html,1
+
+-----
+Docid: 95
+URL: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/w08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 42 (Informatics Core Course II)
+Text length: 11873
+Html length: 23516
+Number of outgoing links: 23
+http://www.ics.uci.edu/~kay/courses/i42/w08.html,23
+
+-----
+Docid: 135
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/su14.html
+Anchor text: Assignments
+Text length: 8470
+Html length: 11115
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/10/hw/index.html,20
+
+-----
+Docid: 170
+URL: http://www.ics.uci.edu/~kay/courses/269/s08readings.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/s08readings.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/269/s08.html
+Anchor text: Readings:
+Text length: 10996
+Html length: 21339
+Number of outgoing links: 62
+http://www.ics.uci.edu/~kay/courses/269/s08readings.html,62
+
+-----
+Docid: 136
+URL: http://www.ics.uci.edu/~kay/courses/10/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/su14.html
+Anchor text: Resources
+Text length: 2167
+Html length: 4361
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/10/refs.html,20
+
+-----
+Docid: 96
+URL: http://www.ics.uci.edu/~kay/courses/398a/w08.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/w08.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4186
+Html length: 8564
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/w08.html,10
+
+-----
+Docid: 174
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Assignments
+Text length: 4652
+Html length: 8300
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/i42/hw/,20
+
+-----
+Docid: 16
+URL: http://www.ics.uci.edu/~kay/pubs/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/index.html'
+Parent page: http://www.ics.uci.edu/~kay/
+Anchor text: Publications, presentations, conferences, workshops
+Text length: 8894
+Html length: 14830
+Number of outgoing links: 35
+http://www.ics.uci.edu/~kay/pubs/index.html,35
+
+-----
+Docid: 46
+URL: http://www.ics.uci.edu/~kay/courses/us3/w14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us3/w14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: University Studies 3—Freshman Seminar (Linguistics for Fun and Profit)
+Text length: 5384
+Html length: 7557
+Number of outgoing links: 16
+http://www.ics.uci.edu/~kay/courses/us3/w14.html,16
+
+-----
+Docid: 173
+URL: http://www.ics.uci.edu/~kay/courses/269/s12readings.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/s12readings.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/269/w14.html
+Anchor text: Readings:
+Text length: 10814
+Html length: 24314
+Number of outgoing links: 62
+http://www.ics.uci.edu/~kay/courses/269/s12readings.html,62
+
+-----
+Docid: 168
+URL: http://www.ics.uci.edu/~kay/scheme/finger.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/scheme/finger.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/refs.html
+Anchor text: Scheme Finger Exercises
+Text length: 5034
+Html length: 14632
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/scheme/finger.html,2
+
+-----
+Docid: 214
+URL: http://www.ics.uci.edu/~kay/courses/us3/hw.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us3/hw.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/us3/w14.html
+Anchor text: Assignments
+Text length: 7643
+Html length: 13016
+Number of outgoing links: 13
+http://www.ics.uci.edu/~kay/courses/us3/hw.html,13
+
+-----
+Docid: 47
+URL: http://www.ics.uci.edu/~kay/labtutors/193.w14.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.w14.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 4455
+Html length: 6700
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.w14.html,9
+
+-----
+Docid: 207
+URL: http://www.ics.uci.edu/~kay/pubs/managing-large-courses.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/managing-large-courses.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: Large Introductory Computer Science Classes:
+Text length: 15807
+Html length: 21027
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/pubs/managing-large-courses.html,27
+
+-----
+Docid: 175
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Simulator
+Text length: 745
+Html length: 3269
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/i42/wildride/,7
+
+-----
+Docid: 97
+URL: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/f07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 41 (Informatics Core Course I)
+Text length: 14098
+Html length: 26766
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/i41/f07.html,27
+
+-----
+Docid: 137
+URL: http://www.ics.uci.edu/~kay/courses/10/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/su14.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/10/
+Text length: 10405
+Html length: 19224
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/courses/10/,19
+
+-----
+Docid: 171
+URL: http://www.ics.uci.edu/~kay/courses/269/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/'
+Parent page: http://www.ics.uci.edu/~kay/courses/269/s08.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/269/
+Text length: 2581
+Html length: 6737
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/269/,6
+
+-----
+Docid: 138
+URL: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/su14.html
+Anchor text: Assignments
+Text length: 8553
+Html length: 12395
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/131/hw/index.html,11
+
+-----
+Docid: 98
+URL: http://www.ics.uci.edu/~kay/courses/h21/f07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/f07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS H21 (Introduction to Computer Science I—Honors)
+Text length: 11707
+Html length: 23422
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/h21/f07.html,22
+
+-----
+Docid: 176
+URL: http://www.ics.uci.edu/~kay/courses/i42/quiz/old/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/quiz/old/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Past quizzes
+Text length: 5658
+Html length: 12383
+Number of outgoing links: 43
+http://www.ics.uci.edu/~kay/courses/i42/quiz/old/,43
+
+-----
+Docid: 208
+URL: http://www.ics.uci.edu/~kay/pubs/writing.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/writing.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: Computer Scientists Can Teach Writing:
+Text length: 16239
+Html length: 20948
+Number of outgoing links: 16
+http://www.ics.uci.edu/~kay/pubs/writing.html,16
+
+-----
+Docid: 216
+URL: http://www.ics.uci.edu/~kay/pubs/large_intro_courses_gt_files/endnotes.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/large_intro_courses_gt_files/endnotes.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/managing-large-courses.html
+Anchor text: Endnotes
+Text length: 4322
+Html length: 6782
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/pubs/large_intro_courses_gt_files/endnotes.html,2
+
+-----
+Docid: 48
+URL: http://www.ics.uci.edu/~kay/courses/31/f13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/f13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 31 (Introduction to Programming)
+Text length: 16936
+Html length: 31583
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/31/f13.html,25
+
+-----
+Docid: 215
+URL: http://www.ics.uci.edu/~kay/courses/us3/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us3/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/us3/w14.html
+Anchor text: Resources
+Text length: 282
+Html length: 852
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/us3/refs.html,1
+
+-----
+Docid: 49
+URL: http://www.ics.uci.edu/~kay/courses/us4/f13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us4/f13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: University Studies 4—Transfer Student Seminar (Beyond Java and C++: Functional Programming in Scheme...
+Text length: 7168
+Html length: 14904
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/us4/f13.html,21
+
+-----
+Docid: 224
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Anchor text: Assignments
+Text length: 5022
+Html length: 8825
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/i41/hw/,25
+
+-----
+Docid: 209
+URL: http://www.ics.uci.edu/~kay/pubs/bandwagons.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/bandwagons.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: Bandwagons Considered Harmful, or The Past as Prologue in Curriculum Change
+Text length: 20848
+Html length: 27132
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/pubs/bandwagons.html,11
+
+-----
+Docid: 177
+URL: http://www.ics.uci.edu/~kay/courses/i42/questions.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/questions.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Final review questions
+Text length: 26850
+Html length: 53048
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/i42/questions.html,11
+
+-----
+Docid: 99
+URL: http://www.ics.uci.edu/~kay/courses/398a/f07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 3509
+Html length: 8267
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/f07.html,10
+
+-----
+Docid: 139
+URL: http://www.ics.uci.edu/~kay/courses/131/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/su14.html
+Anchor text: Resources
+Text length: 3266
+Html length: 7614
+Number of outgoing links: 29
+http://www.ics.uci.edu/~kay/courses/131/refs.html,29
+
+-----
+Docid: 172
+URL: http://www.ics.uci.edu/~kay/courses/h21/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/f08.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/h21
+Text length: 12106
+Html length: 24518
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/h21/,21
+
+-----
+Docid: 140
+URL: http://www.ics.uci.edu/~kay/courses/131/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/su14.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/131/
+Text length: 10254
+Html length: 16569
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/131/,21
+
+-----
+Docid: 100
+URL: http://www.ics.uci.edu/~kay/courses/131/su07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 8376
+Html length: 17724
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/131/su07.html,15
+
+-----
+Docid: 210
+URL: http://www.ics.uci.edu/~kay/pubs/uclahonors.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/uclahonors.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: An Honors Computer Science Seminar for Undergraduate Non-Majors
+Text length: 8327
+Html length: 10377
+Number of outgoing links: 8
+http://www.ics.uci.edu/~kay/pubs/uclahonors.html,8
+
+-----
+Docid: 225
+URL: http://www.ics.uci.edu/~kay/courses/i41/quiz/old/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/quiz/old/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Anchor text: Past quizzes
+Text length: 7046
+Html length: 18554
+Number of outgoing links: 76
+http://www.ics.uci.edu/~kay/courses/i41/quiz/old/,76
+
+-----
+Docid: 50
+URL: http://www.ics.uci.edu/~kay/labtutors/193.f13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.f13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 4457
+Html length: 6702
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.f13.html,9
+
+-----
+Docid: 178
+URL: http://www.ics.uci.edu/~kay/courses/i42/javarefs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/javarefs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Other references
+Text length: 2751
+Html length: 6092
+Number of outgoing links: 17
+http://www.ics.uci.edu/~kay/courses/i42/javarefs.html,17
+
+-----
+Docid: 246
+URL: http://www.ics.uci.edu/~kay/courses/i41/video/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/video/'
+Parent page: http://www.ics.uci.edu/~kay/courses/us4/f13.html
+Anchor text: Video lectures
+Text length: 795
+Html length: 2321
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/i41/video/,7
+
+-----
+Docid: 51
+URL: http://www.ics.uci.edu/~kay/courses/398a/f13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4797
+Html length: 8647
+Number of outgoing links: 14
+http://www.ics.uci.edu/~kay/courses/398a/f13.html,14
+
+-----
+Docid: 226
+URL: http://www.ics.uci.edu/~kay/courses/i41/final.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/final.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Anchor text: null
+Text length: 5798
+Html length: 10206
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/i41/final.html,5
+
+-----
+Docid: 101
+URL: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/su07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 139W (Communications Skills for Computer Scientists)
+Text length: 14684
+Html length: 30128
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/139w/su07.html,27
+
+-----
+Docid: 144
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/pair.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/pair.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: specific guidelines
+Text length: 5966
+Html length: 8389
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/h21/hw/pair.html,4
+
+-----
+Docid: 270
+URL: http://www.ics.uci.edu/~kay/pubs/bandwagons_and_balance_files/endnotes.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/bandwagons_and_balance_files/endnotes.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/bandwagons.html
+Anchor text: Endnotes
+Text length: 1002
+Html length: 2287
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/pubs/bandwagons_and_balance_files/endnotes.html,1
+
+-----
+Docid: 145
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/collab.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/collab.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: guidelines for collaboration and independent work
+Text length: 4145
+Html length: 6027
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/h21/hw/collab.html,3
+
+-----
+Docid: 102
+URL: http://www.ics.uci.edu/~kay/courses/398b/s07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced Teaching Assistant Seminar)
+Text length: 2565
+Html length: 7872
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/398b/s07.html,6
+
+-----
+Docid: 212
+URL: http://www.ics.uci.edu/~kay/pubs/intro-ed-res-dept.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/intro-ed-res-dept.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: Large Introductory Courses in Research Computer Science Departments,
+Text length: 9127
+Html length: 11097
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/pubs/intro-ed-res-dept.html,3
+
+-----
+Docid: 52
+URL: http://www.ics.uci.edu/~kay/courses/10/su13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/su13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10 (How Computers Work)
+Text length: 10163
+Html length: 18416
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/10/su13.html,20
+
+-----
+Docid: 180
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: Weekly homework assignments  and roughly bi-weekly lab assignments
+Text length: 4652
+Html length: 8300
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/i42/hw/index.html,20
+
+-----
+Docid: 247
+URL: http://www.ics.uci.edu/~kay/courses/us4/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us4/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/us4/f13.html
+Anchor text: References
+Text length: 681
+Html length: 1402
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/us4/refs.html,3
+
+-----
+Docid: 271
+URL: http://www.ics.uci.edu/~kay/pubs/honors_seminar_sigcse_files/endnotes.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/honors_seminar_sigcse_files/endnotes.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/uclahonors.html
+Anchor text: Endnotes
+Text length: 518
+Html length: 1496
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/pubs/honors_seminar_sigcse_files/endnotes.html,0
+
+-----
+Docid: 53
+URL: http://www.ics.uci.edu/~kay/courses/131/su13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 10062
+Html length: 16559
+Number of outgoing links: 23
+http://www.ics.uci.edu/~kay/courses/131/su13.html,23
+
+-----
+Docid: 228
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Anchor text: Weekly homework assignments and lab assignments
+Text length: 5022
+Html length: 8825
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/i41/hw/index.html,25
+
+-----
+Docid: 213
+URL: http://www.ics.uci.edu/~kay/necc/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/necc/index.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/index.html
+Anchor text: Presentation Technologies for the Classroom,
+Text length: 198
+Html length: 1670
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/necc/index.html,2
+
+-----
+Docid: 103
+URL: http://www.ics.uci.edu/~kay/courses/i42/w07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/w07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 42 (Informatics Core Course II)
+Text length: 11786
+Html length: 23258
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/i42/w07.html,22
+
+-----
+Docid: 146
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab0.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab0.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Lab Assignment 0
+Text length: 8436
+Html length: 13226
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab0.html,7
+
+-----
+Docid: 249
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/collab.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/collab.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: guidelines for collaboration and independent work
+Text length: 4136
+Html length: 5938
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/collab.html,2
+
+-----
+Docid: 147
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: First Homework
+Text length: 4638
+Html length: 8048
+Number of outgoing links: 12
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw1.html,12
+
+-----
+Docid: 104
+URL: http://www.ics.uci.edu/~kay/courses/398a/w07.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/w07.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4005
+Html length: 8378
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/w07.html,10
+
+-----
+Docid: 181
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: First Homework
+Text length: 9006
+Html length: 11445
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/10/hw/hw1.html,15
+
+-----
+Docid: 54
+URL: http://www.ics.uci.edu/~kay/courses/139w/s13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/s13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 139W (Critical Writing on Information Technology)
+Text length: 15293
+Html length: 29180
+Number of outgoing links: 32
+http://www.ics.uci.edu/~kay/courses/139w/s13.html,32
+
+-----
+Docid: 272
+URL: http://www.ics.uci.edu/~kay/pubs/honors_seminar_sigcse_files/appendix_field_study_i.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/honors_seminar_sigcse_files/appendix_field_study_i.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/uclahonors.html
+Anchor text: Appendix:  Field Study in Computing--Term Project Description
+Text length: 6190
+Html length: 7141
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/pubs/honors_seminar_sigcse_files/appendix_field_study_i.html,0
+
+-----
+Docid: 273
+URL: http://www.ics.uci.edu/~kay/courses/i42/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w08.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/i42
+Text length: 12404
+Html length: 24304
+Number of outgoing links: 24
+http://www.ics.uci.edu/~kay/courses/i42/,24
+
+-----
+Docid: 55
+URL: http://www.ics.uci.edu/~kay/labtutors/193.s13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.s13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 4448
+Html length: 6653
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.s13.html,9
+
+-----
+Docid: 235
+URL: http://www.ics.uci.edu/~kay/pubs/ud_writing_gt_files/endnotes.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/ud_writing_gt_files/endnotes.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Endnotes
+Text length: 565
+Html length: 1654
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/pubs/ud_writing_gt_files/endnotes.html,1
+
+-----
+Docid: 182
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Second Homework
+Text length: 6591
+Html length: 8761
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/10/hw/hw2.html,11
+
+-----
+Docid: 105
+URL: http://www.ics.uci.edu/~kay/courses/i41/f06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/f06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 41 (Informatics Core Course I)
+Text length: 13509
+Html length: 26257
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/i41/f06.html,27
+
+-----
+Docid: 148
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Lab Assignment 1
+Text length: 14339
+Html length: 20794
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab1.html,4
+
+-----
+Docid: 250
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab0.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab0.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Lab Assignment 0
+Text length: 11045
+Html length: 15746
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab0.html,9
+
+-----
+Docid: 149
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Second Homework
+Text length: 2968
+Html length: 4851
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw2.html,2
+
+-----
+Docid: 106
+URL: http://www.ics.uci.edu/~kay/courses/h21/f06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/f06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS H21 (Introduction to Computer Science I—Honors)
+Text length: 11627
+Html length: 23232
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/h21/f06.html,22
+
+-----
+Docid: 183
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Third Homework
+Text length: 4431
+Html length: 6083
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/10/hw/hw3.html,7
+
+-----
+Docid: 236
+URL: http://www.ics.uci.edu/~kay/courses/139w/editing.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/editing.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Warm-up
+Text length: 1834
+Html length: 3327
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/139w/editing.html,1
+
+-----
+Docid: 56
+URL: http://www.ics.uci.edu/~kay/courses/4/w13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/w13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 4 (Human Factors for the Web)
+Text length: 9860
+Html length: 16939
+Number of outgoing links: 26
+http://www.ics.uci.edu/~kay/courses/4/w13.html,26
+
+-----
+Docid: 283
+URL: http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/the_range_of_technologies.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/necc/classroom_tech_necc_ju_files/the_range_of_technologies.html'
+Parent page: http://www.ics.uci.edu/~kay/necc/index.html
+Anchor text: Next
+Text length: 268
+Html length: 2146
+Number of outgoing links: 8
+http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/the_range_of_technologies.html,8
+
+-----
+Docid: 277
+URL: http://www.ics.uci.edu/~kay/courses/139w/requirements.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/requirements.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Anchor text: Writing Assignment Requirements
+Text length: 8253
+Html length: 10170
+Number of outgoing links: 8
+http://www.ics.uci.edu/~kay/courses/139w/requirements.html,8
+
+-----
+Docid: 57
+URL: http://www.ics.uci.edu/~kay/courses/31/w13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/31/w13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 31 (Introduction to Programming)
+Text length: 15475
+Html length: 28714
+Number of outgoing links: 25
+http://www.ics.uci.edu/~kay/courses/31/w13.html,25
+
+-----
+Docid: 237
+URL: http://www.ics.uci.edu/~kay/courses/139w/trimming.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/trimming.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Trimming the Fat
+Text length: 2292
+Html length: 3922
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/139w/trimming.html,1
+
+-----
+Docid: 184
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Fourth Homework
+Text length: 3908
+Html length: 5976
+Number of outgoing links: 8
+http://www.ics.uci.edu/~kay/courses/10/hw/hw4.html,8
+
+-----
+Docid: 107
+URL: http://www.ics.uci.edu/~kay/courses/398a/f06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 3949
+Html length: 8233
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/f06.html,10
+
+-----
+Docid: 150
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Second Lab Assignment
+Text length: 6673
+Html length: 11123
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab2.html,2
+
+-----
+Docid: 251
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: First Homework
+Text length: 11221
+Html length: 17163
+Number of outgoing links: 14
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw1.html,14
+
+-----
+Docid: 151
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Third Homework
+Text length: 1696
+Html length: 3381
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw3.html,2
+
+-----
+Docid: 108
+URL: http://www.ics.uci.edu/~kay/courses/398b/s06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced Teaching Assistant Seminar)
+Text length: 2711
+Html length: 8024
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/398b/s06.html,7
+
+-----
+Docid: 185
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Fifth Homework
+Text length: 6063
+Html length: 12079
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/10/hw/hw5.html,9
+
+-----
+Docid: 238
+URL: http://www.ics.uci.edu/~kay/courses/139w/instructions.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/instructions.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Writing Instructions
+Text length: 5098
+Html length: 7154
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/139w/instructions.html,6
+
+-----
+Docid: 58
+URL: http://www.ics.uci.edu/~kay/labtutors/193.w13.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.w13.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 4140
+Html length: 6335
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.w13.html,9
+
+-----
+Docid: 278
+URL: http://www.ics.uci.edu/~kay/courses/139w/influencing-edit.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/influencing-edit.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Anchor text: Group editing of letter influencing policy
+Text length: 3001
+Html length: 5092
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/influencing-edit.html,5
+
+-----
+Docid: 284
+URL: http://www.ics.uci.edu/~kay/courses/i42/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/w07.html
+Anchor text: Other references
+Text length: 2796
+Html length: 5975
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/i42/refs.html,27
+
+-----
+Docid: 279
+URL: http://www.ics.uci.edu/~kay/courses/139w/changingsys-funding.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/changingsys-funding.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Anchor text: Oral proposal of change
+Text length: 1535
+Html length: 7605
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/changingsys-funding.html,5
+
+-----
+Docid: 59
+URL: http://www.ics.uci.edu/~kay/courses/us4/f12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us4/f12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: University Studies 4—Transfer Student Seminar (Beyond Java and C++: Functional Programming in Scheme...
+Text length: 7269
+Html length: 14981
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/us4/f12.html,21
+
+-----
+Docid: 239
+URL: http://www.ics.uci.edu/~kay/courses/139w/influencing.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/influencing.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Influencing Policy
+Text length: 5275
+Html length: 7267
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/influencing.html,5
+
+-----
+Docid: 186
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Sixth Homework
+Text length: 2447
+Html length: 4997
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/10/hw/hw6.html,6
+
+-----
+Docid: 109
+URL: http://www.ics.uci.edu/~kay/courses/i42/w06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/w06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 42 (Informatics Core Course II)
+Text length: 11707
+Html length: 22850
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/i42/w06.html,22
+
+-----
+Docid: 152
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Third Lab Assignment
+Text length: 3976
+Html length: 7675
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab3.html,2
+
+-----
+Docid: 252
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Lab Assignment 1
+Text length: 3596
+Html length: 6045
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab1.html,4
+
+-----
+Docid: 153
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Fourth Homework
+Text length: 3043
+Html length: 5430
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw4.html,3
+
+-----
+Docid: 110
+URL: http://www.ics.uci.edu/~kay/courses/398a/w06.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/w06.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 3946
+Html length: 8411
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/w06.html,10
+
+-----
+Docid: 187
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Seventh Homework
+Text length: 5861
+Html length: 8955
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/10/hw/hw7.html,15
+
+-----
+Docid: 240
+URL: http://www.ics.uci.edu/~kay/courses/139w/graphicsactivity.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/graphicsactivity.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Graphics Activity
+Text length: 3947
+Html length: 26638
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/139w/graphicsactivity.html,6
+
+-----
+Docid: 60
+URL: http://www.ics.uci.edu/~kay/labtutors/193.f12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/labtutors/193.f12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 193 (Tutoring in ICS)
+Text length: 1688
+Html length: 3785
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/labtutors/193.f12.html,9
+
+-----
+Docid: 280
+URL: http://www.ics.uci.edu/~kay/courses/139w/editresume.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/editresume.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Anchor text: résumés and cover letters
+Text length: 2433
+Html length: 4588
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/editresume.html,5
+
+-----
+Docid: 288
+URL: http://www.ics.uci.edu/~kay/courses/139w/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/s13.html
+Anchor text: References
+Text length: 1005
+Html length: 3167
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/139w/refs.html,11
+
+-----
+Docid: 281
+URL: http://www.ics.uci.edu/~kay/pubs/intro_ed_res_dept._pa_files/endnotes.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/pubs/intro_ed_res_dept._pa_files/endnotes.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/intro-ed-res-dept.html
+Anchor text: Endnotes
+Text length: 240
+Html length: 1151
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/pubs/intro_ed_res_dept._pa_files/endnotes.html,0
+
+-----
+Docid: 61
+URL: http://www.ics.uci.edu/~kay/courses/398a/f12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4798
+Html length: 8620
+Number of outgoing links: 14
+http://www.ics.uci.edu/~kay/courses/398a/f12.html,14
+
+-----
+Docid: 241
+URL: http://www.ics.uci.edu/~kay/courses/139w/changingsys.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/changingsys.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: Changing the System
+Text length: 11248
+Html length: 15178
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/changingsys.html,5
+
+-----
+Docid: 188
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/hw8.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/hw8.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/index.html
+Anchor text: Eighth Homework
+Text length: 4448
+Html length: 6023
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/10/hw/hw8.html,4
+
+-----
+Docid: 111
+URL: http://www.ics.uci.edu/~kay/courses/i41/f05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/f05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 41 (Informatics Core Course I)
+Text length: 12613
+Html length: 24091
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/i41/f05.html,22
+
+-----
+Docid: 154
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Fourth Lab Assignment
+Text length: 7652
+Html length: 13042
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab4.html,2
+
+-----
+Docid: 253
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Second Homework
+Text length: 3488
+Html length: 5277
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw2.html,3
+
+-----
+Docid: 155
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Fifth Homework
+Text length: 6485
+Html length: 9105
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw5.html,2
+
+-----
+Docid: 112
+URL: http://www.ics.uci.edu/~kay/courses/h21/f05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/f05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS H21 (Introduction to Computer Science I--Honors)
+Text length: 11196
+Html length: 22102
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/courses/h21/f05.html,19
+
+-----
+Docid: 189
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: First Homework
+Text length: 6596
+Html length: 9927
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw1.html,3
+
+-----
+Docid: 242
+URL: http://www.ics.uci.edu/~kay/courses/139w/presentationreview.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/presentationreview.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: oral synopsis
+Text length: 2001
+Html length: 5149
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/139w/presentationreview.html,4
+
+-----
+Docid: 62
+URL: http://www.ics.uci.edu/~kay/courses/10/su12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/su12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10 (How Computers Work)
+Text length: 10181
+Html length: 18061
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/10/su12.html,21
+
+-----
+Docid: 282
+URL: http://www.ics.uci.edu/~kay/courses/i41/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/f07.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/i41
+Text length: 14691
+Html length: 28518
+Number of outgoing links: 29
+http://www.ics.uci.edu/~kay/courses/i41/,29
+
+-----
+Docid: 274
+URL: http://www.ics.uci.edu/~kay/courses/i41/questions.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/questions.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/final.html
+Anchor text: additional questions
+Text length: 25890
+Html length: 64872
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/questions.html,3
+
+-----
+Docid: 63
+URL: http://www.ics.uci.edu/~kay/courses/131/su12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 9826
+Html length: 16234
+Number of outgoing links: 23
+http://www.ics.uci.edu/~kay/courses/131/su12.html,23
+
+-----
+Docid: 243
+URL: http://www.ics.uci.edu/~kay/courses/139w/changingsys-editintro.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/changingsys-editintro.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: introduction
+Text length: 2526
+Html length: 4862
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/changingsys-editintro.html,5
+
+-----
+Docid: 190
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labA.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labA.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment A
+Text length: 15887
+Html length: 18204
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/labA.html,3
+
+-----
+Docid: 113
+URL: http://www.ics.uci.edu/~kay/courses/398a/f05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4088
+Html length: 8544
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/398a/f05.html,11
+
+-----
+Docid: 156
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Fifth Lab Assignment
+Text length: 9739
+Html length: 17392
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab5.html,2
+
+-----
+Docid: 254
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Lab Assignment 2
+Text length: 2084
+Html length: 4185
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab2.html,3
+
+-----
+Docid: 157
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Sixth Homework
+Text length: 4067
+Html length: 6162
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw6.html,2
+
+-----
+Docid: 114
+URL: http://www.ics.uci.edu/~kay/courses/264/s05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/264/s05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 264 (Computer Law)
+Text length: 2190
+Html length: 7237
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/264/s05.html,5
+
+-----
+Docid: 191
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Second Homework
+Text length: 6421
+Html length: 9452
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw2.html,3
+
+-----
+Docid: 244
+URL: http://www.ics.uci.edu/~kay/courses/139w/changingsys-editprop.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/changingsys-editprop.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: proposal
+Text length: 4392
+Html length: 7076
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/changingsys-editprop.html,5
+
+-----
+Docid: 64
+URL: http://www.ics.uci.edu/~kay/courses/269/s12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/269/s12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 269 (Computer Law)
+Text length: 1914
+Html length: 6970
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/269/s12.html,5
+
+-----
+Docid: 286
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/hw1.html
+Anchor text: assignment page
+Text length: 8470
+Html length: 11115
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/10/hw/,20
+
+-----
+Docid: 275
+URL: http://www.ics.uci.edu/~kay/courses/i41/answers.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/answers.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/final.html
+Anchor text: answers
+Text length: 41742
+Html length: 80358
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/answers.html,3
+
+-----
+Docid: 65
+URL: http://www.ics.uci.edu/~kay/courses/398b/s12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced TA Seminar)
+Text length: 2913
+Html length: 8534
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398b/s12.html,10
+
+-----
+Docid: 245
+URL: http://www.ics.uci.edu/~kay/courses/139w/changingsys-editpromo.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/changingsys-editpromo.html'
+Parent page: http://www.ics.uci.edu/~kay/pubs/writing.html
+Anchor text: brochure, flyer, or web page
+Text length: 2739
+Html length: 4456
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/139w/changingsys-editpromo.html,5
+
+-----
+Docid: 192
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labB.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labB.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment B
+Text length: 24297
+Html length: 26908
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i42/hw/labB.html,2
+
+-----
+Docid: 115
+URL: http://www.ics.uci.edu/~kay/courses/398b/s05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced Teaching Assistant Seminar)
+Text length: 2659
+Html length: 6997
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/398b/s05.html,7
+
+-----
+Docid: 158
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Sixth Lab Assignment
+Text length: 10078
+Html length: 19767
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab6.html,9
+
+-----
+Docid: 255
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Third Homework
+Text length: 2536
+Html length: 4521
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw3.html,2
+
+-----
+Docid: 159
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Seventh Homework
+Text length: 5015
+Html length: 10856
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw7.html,1
+
+-----
+Docid: 116
+URL: http://www.ics.uci.edu/~kay/courses/i42/w05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/w05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 42 (Informatics Core Course II)
+Text length: 11361
+Html length: 22169
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/i42/w05.html,15
+
+-----
+Docid: 193
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Third Homework
+Text length: 3413
+Html length: 5163
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw3.html,2
+
+-----
+Docid: 217
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/problem_description_files/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/problem_description_files/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: A description of the problem
+Text length: 18977
+Html length: 24651
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/i42/wildride/problem_description_files/index.html,1
+
+-----
+Docid: 66
+URL: http://www.ics.uci.edu/~kay/courses/i42/w12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/w12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 42 (Informatics Core Course II)
+Text length: 12404
+Html length: 24304
+Number of outgoing links: 24
+http://www.ics.uci.edu/~kay/courses/i42/w12.html,24
+
+-----
+Docid: 289
+URL: http://www.ics.uci.edu/~kay/courses/4/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/w13.html
+Anchor text: Assignments
+Text length: 8687
+Html length: 11395
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/4/hw/index.html,15
+
+-----
+Docid: 287
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/FirstDay.xml'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/hw1.html
+Anchor text: example
+Text length: 4426
+Html length: 25107
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/courses/10/hw/FirstDay.xml,0
+
+-----
+Docid: 290
+URL: http://www.ics.uci.edu/~kay/courses/4/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/w13.html
+Anchor text: References
+Text length: 588
+Html length: 1455
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/4/refs.html,5
+
+-----
+Docid: 67
+URL: http://www.ics.uci.edu/~kay/courses/4/w12.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/w12.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 4: Human Factors for the Web
+Text length: 9514
+Html length: 16806
+Number of outgoing links: 26
+http://www.ics.uci.edu/~kay/courses/4/w12.html,26
+
+-----
+Docid: 218
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/simulator.py
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/simulator.py'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: The Python source code
+-----
+Docid: 194
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Fourth Homework
+Text length: 4439
+Html length: 13760
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw4.html,27
+
+-----
+Docid: 117
+URL: http://www.ics.uci.edu/~kay/courses/398a/w05.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/w05.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4177
+Html length: 8964
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/398a/w05.html,11
+
+-----
+Docid: 160
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Seventh Lab Assignment
+Text length: 8954
+Html length: 15411
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab7.html,3
+
+-----
+Docid: 256
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Third Lab Assignment
+Text length: 2432
+Html length: 4427
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab3.html,2
+
+-----
+Docid: 161
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw8.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw8.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Eighth Homework
+Text length: 885
+Html length: 2392
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw8.html,2
+
+-----
+Docid: 118
+URL: http://www.ics.uci.edu/~kay/courses/131/s04.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/s04.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 131 (Social Analysis of Computerization)
+Text length: 13739
+Html length: 26218
+Number of outgoing links: 22
+http://www.ics.uci.edu/~kay/courses/131/s04.html,22
+
+-----
+Docid: 195
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labC.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labC.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment C
+Text length: 29560
+Html length: 38154
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i42/hw/labC.html,4
+
+-----
+Docid: 219
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/data/customers.txt
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/data/customers.txt'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: customers.txt
+-----
+Docid: 68
+URL: http://www.ics.uci.edu/~kay/courses/i41/f11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/f11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 41 (Informatics Core Course I)
+Text length: 14691
+Html length: 28518
+Number of outgoing links: 29
+http://www.ics.uci.edu/~kay/courses/i41/f11.html,29
+
+-----
+Docid: 291
+URL: http://www.ics.uci.edu/~kay/courses/4/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/w13.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/4/
+Text length: 9860
+Html length: 16939
+Number of outgoing links: 26
+http://www.ics.uci.edu/~kay/courses/4/,26
+
+-----
+Docid: 309
+URL: http://www.ics.uci.edu/~kay/courses/398b/hw/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/hw/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/398b/s12.html
+Anchor text: Assignments
+Text length: 845
+Html length: 3192
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/398b/hw/index.html,6
+
+-----
+Docid: 292
+URL: http://www.ics.uci.edu/~kay/courses/139w/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/'
+Parent page: http://www.ics.uci.edu/~kay/courses/139w/su07.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/139w
+Text length: 15293
+Html length: 29180
+Number of outgoing links: 32
+http://www.ics.uci.edu/~kay/courses/139w/,32
+
+-----
+Docid: 69
+URL: http://www.ics.uci.edu/~kay/courses/us4/f11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/us4/f11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: University Studies 4—Transfer Student Seminar (Beyond Java and C++: Functional Programming in Scheme...
+Text length: 7318
+Html length: 14841
+Number of outgoing links: 19
+http://www.ics.uci.edu/~kay/courses/us4/f11.html,19
+
+-----
+Docid: 220
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/data/customers2.txt
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/data/customers2.txt'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: customers2.txt
+-----
+Docid: 196
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Fifth Homework
+Text length: 12034
+Html length: 19362
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw5.html,4
+
+-----
+Docid: 119
+URL: http://www.ics.uci.edu/~kay/courses/104/w04.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/104/w04.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 104 (Human-Computer Interaction)
+Text length: 9529
+Html length: 20194
+Number of outgoing links: 12
+http://www.ics.uci.edu/~kay/courses/104/w04.html,12
+
+-----
+Docid: 162
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab8.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab8.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Eighth Lab Assignment
+Text length: 11416
+Html length: 15732
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab8.html,4
+
+-----
+Docid: 257
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Fourth Homework
+Text length: 4685
+Html length: 7257
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw4.html,3
+
+-----
+Docid: 120
+URL: http://www.ics.uci.edu/~kay/courses/398b/w04.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/w04.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced Teaching Assistant Seminar)
+Text length: 2285
+Html length: 6491
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/398b/w04.html,5
+
+-----
+Docid: 197
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Sixth Homework
+Text length: 3737
+Html length: 10652
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw6.html,4
+
+-----
+Docid: 70
+URL: http://www.ics.uci.edu/~kay/courses/398a/f11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4662
+Html length: 10055
+Number of outgoing links: 11
+http://www.ics.uci.edu/~kay/courses/398a/f11.html,11
+
+-----
+Docid: 221
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/data/1000customers.txt
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/data/1000customers.txt'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: 1000customers.txt
+-----
+Docid: 306
+URL: http://www.ics.uci.edu/~kay/courses/264/s05readings.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/264/s05readings.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/264/s05.html
+Anchor text: Readings:
+Text length: 8949
+Html length: 17858
+Number of outgoing links: 51
+http://www.ics.uci.edu/~kay/courses/264/s05readings.html,51
+
+-----
+Docid: 310
+URL: http://www.ics.uci.edu/~kay/courses/398b/refs.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/refs.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/398b/s12.html
+Anchor text: References/Resources
+Text length: 216
+Html length: 1056
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/398b/refs.html,6
+
+-----
+Docid: 307
+URL: http://www.ics.uci.edu/~kay/courses/264/
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/264/'
+Parent page: http://www.ics.uci.edu/~kay/courses/264/s05.html
+Anchor text: http://www.ics.uci.edu/~kay/courses/264/
+Text length: 2190
+Html length: 7237
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/264/,5
+
+-----
+Docid: 222
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/data/rides.txt
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/data/rides.txt'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: rides.txt
+-----
+Docid: 71
+URL: http://www.ics.uci.edu/~kay/courses/131/su11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/su11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 131 (Human-Computer Interaction)
+Text length: 9731
+Html length: 18441
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/131/su11.html,21
+
+-----
+Docid: 198
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labD.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labD.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment D
+Text length: 11081
+Html length: 13665
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/i42/hw/labD.html,6
+
+-----
+Docid: 121
+URL: http://www.ics.uci.edu/~kay/courses/10a/f03.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10a/f03.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10A (Information: Presentation and Representation)
+Text length: 13848
+Html length: 26709
+Number of outgoing links: 18
+http://www.ics.uci.edu/~kay/courses/10a/f03.html,18
+
+-----
+Docid: 258
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Fourth Lab Assignment
+Text length: 9173
+Html length: 13955
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab4.html,2
+
+-----
+Docid: 163
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw9.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw9.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Ninth Homework
+Text length: 2815
+Html length: 4775
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw9.html,3
+
+-----
+Docid: 259
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Fifth Homework
+Text length: 3863
+Html length: 6316
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw5.html,2
+
+-----
+Docid: 122
+URL: http://www.ics.uci.edu/~kay/courses/139w/su03.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/139w/su03.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 139W (Communications Skills for Computer Scientists)
+Text length: 13826
+Html length: 27072
+Number of outgoing links: 27
+http://www.ics.uci.edu/~kay/courses/139w/su03.html,27
+
+-----
+Docid: 199
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Seventh Homework
+Text length: 9620
+Html length: 19647
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw7.html,4
+
+-----
+Docid: 223
+URL: http://www.ics.uci.edu/~kay/courses/i42/wildride/data/rides2.txt
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/wildride/data/rides2.txt'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/wildride/
+Anchor text: rides2.txt
+-----
+Docid: 293
+URL: http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/spontaneity_and_flexibil.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/necc/classroom_tech_necc_ju_files/spontaneity_and_flexibil.html'
+Parent page: http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/the_range_of_technologies.html
+Anchor text: Blackboard or handwritten OH slides
+Text length: 446
+Html length: 2568
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/spontaneity_and_flexibil.html,3
+
+-----
+Docid: 72
+URL: http://www.ics.uci.edu/~kay/courses/4/s11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/s11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 4: Human Factors for the Web
+Text length: 8796
+Html length: 15916
+Number of outgoing links: 26
+http://www.ics.uci.edu/~kay/courses/4/s11.html,26
+
+-----
+Docid: 316
+URL: http://www.ics.uci.edu/~kay/courses/4/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/hw/index.html
+Anchor text: First Homework
+Text length: 3426
+Html length: 4427
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/4/hw/hw1.html,6
+
+-----
+Docid: 73
+URL: http://www.ics.uci.edu/~kay/courses/398b/s11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398b/s11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398B (Advanced TA Seminar)
+Text length: 2962
+Html length: 8634
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398b/s11.html,10
+
+-----
+Docid: 294
+URL: http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/criteria_for_evaluation.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/necc/classroom_tech_necc_ju_files/criteria_for_evaluation.html'
+Parent page: http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/the_range_of_technologies.html
+Anchor text: Next
+Text length: 377
+Html length: 2084
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/necc/classroom_tech_necc_ju_files/criteria_for_evaluation.html,3
+
+-----
+Docid: 230
+URL: http://www.ics.uci.edu/~kay/courses/131/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Anchor text: Informatics 131
+Text length: 10254
+Html length: 16569
+Number of outgoing links: 21
+http://www.ics.uci.edu/~kay/courses/131/index.html,21
+
+-----
+Docid: 200
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labE.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labE.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment E
+Text length: 8748
+Html length: 11976
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/labE.html,3
+
+-----
+Docid: 123
+URL: http://www.ics.uci.edu/~kay/courses/280/s03.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/280/s03.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 280 (Computer Law Seminar)
+Text length: 2337
+Html length: 8615
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/280/s03.html,6
+
+-----
+Docid: 260
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab5.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab5.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Fifth Lab Assignment
+Text length: 9485
+Html length: 16453
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab5.html,2
+
+-----
+Docid: 164
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/hw10.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/hw10.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Tenth (and last!) Homework
+Text length: 690
+Html length: 2106
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/h21/hw/hw10.html,1
+
+-----
+Docid: 261
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Sixth Homework
+Text length: 9113
+Html length: 14373
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw6.html,2
+
+-----
+Docid: 124
+URL: http://www.ics.uci.edu/~kay/courses/h22/w03.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h22/w03.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS H22 (Introduction to Computer Science II--Honors)
+Text length: 11548
+Html length: 22762
+Number of outgoing links: 15
+http://www.ics.uci.edu/~kay/courses/h22/w03.html,15
+
+-----
+Docid: 201
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw8.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw8.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Eighth Homework
+Text length: 1128
+Html length: 2419
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw8.html,3
+
+-----
+Docid: 231
+URL: http://www.ics.uci.edu/~kay/courses/131/hw/hw1.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/hw/hw1.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Anchor text: First Homework
+Text length: 3970
+Html length: 6324
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/131/hw/hw1.html,10
+
+-----
+Docid: 304
+URL: http://www.ics.uci.edu/~kay/courses/i41/honesty.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/honesty.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/
+Anchor text: http://www.ics.uci.edu/~kay/courses/i41/honesty.html
+Text length: 4136
+Html length: 5932
+Number of outgoing links: 2
+http://www.ics.uci.edu/~kay/courses/i41/honesty.html,2
+
+-----
+Docid: 74
+URL: http://www.ics.uci.edu/~kay/courses/10/w11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/w11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 10 (How Computers Work)
+Text length: 9935
+Html length: 16655
+Number of outgoing links: 20
+http://www.ics.uci.edu/~kay/courses/10/w11.html,20
+
+-----
+Docid: 317
+URL: http://www.ics.uci.edu/~kay/courses/4/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/hw/index.html
+Anchor text: Second Homework
+Text length: 3236
+Html length: 4295
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/4/hw/hw2.html,6
+
+-----
+Docid: 75
+URL: http://www.ics.uci.edu/~kay/courses/398a/w11.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/w11.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4497
+Html length: 9697
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/w11.html,10
+
+-----
+Docid: 295
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/TagGame.xml'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/hw4.html
+Anchor text: [Snap version]
+Text length: 8796
+Html length: 23688
+Number of outgoing links: 0
+http://www.ics.uci.edu/~kay/courses/10/hw/TagGame.xml,0
+
+-----
+Docid: 232
+URL: http://www.ics.uci.edu/~kay/courses/131/hw/hw2.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/hw/hw2.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Anchor text: Second Homework
+Text length: 5266
+Html length: 11312
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/131/hw/hw2.html,9
+
+-----
+Docid: 202
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/labF.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/labF.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Lab Assignment F
+Text length: 6337
+Html length: 9082
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i42/hw/labF.html,3
+
+-----
+Docid: 125
+URL: http://www.ics.uci.edu/~kay/courses/141/w00.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/141/w00.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 141 (Programming Languages)
+Text length: 9229
+Html length: 21133
+Number of outgoing links: 18
+http://www.ics.uci.edu/~kay/courses/141/w00.html,18
+
+-----
+Docid: 262
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab6.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab6.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Sixth Lab Assignment
+Text length: 8989
+Html length: 16281
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab6.html,7
+
+-----
+Docid: 165
+URL: http://www.ics.uci.edu/~kay/courses/h21/hw/lab9.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/h21/hw/lab9.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/h21/hw/
+Anchor text: Ninth Lab Assignment
+Text length: 16633
+Html length: 24113
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/h21/hw/lab9.html,5
+
+-----
+Docid: 263
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/hw7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/hw7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Seventh Homework
+Text length: 1390
+Html length: 3136
+Number of outgoing links: 3
+http://www.ics.uci.edu/~kay/courses/i41/hw/hw7.html,3
+
+-----
+Docid: 126
+URL: http://www.ics.uci.edu/~kay/courses/1p/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/1p/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 1P (Intro to Computing)
+Text length: 632
+Html length: 1122
+Number of outgoing links: 6
+http://www.ics.uci.edu/~kay/courses/1p/index.html,6
+
+-----
+Docid: 203
+URL: http://www.ics.uci.edu/~kay/courses/i42/hw/hw9.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i42/hw/hw9.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: Ninth Homework
+Text length: 3788
+Html length: 6159
+Number of outgoing links: 1
+http://www.ics.uci.edu/~kay/courses/i42/hw/hw9.html,1
+
+-----
+Docid: 233
+URL: http://www.ics.uci.edu/~kay/courses/131/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Anchor text: Third Homework
+Text length: 8236
+Html length: 11307
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/131/hw/hw3.html,10
+
+-----
+Docid: 296
+URL: http://www.ics.uci.edu/~kay/courses/10/hw/TagGame.ypr
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/10/hw/TagGame.ypr'
+Parent page: http://www.ics.uci.edu/~kay/courses/10/hw/hw4.html
+Anchor text: [BYOB version]
+-----
+Docid: 76
+URL: http://www.ics.uci.edu/~kay/courses/i41/f10.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/f10.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: Informatics 41 (Informatics Core Course I)
+Text length: 14291
+Html length: 28076
+Number of outgoing links: 30
+http://www.ics.uci.edu/~kay/courses/i41/f10.html,30
+
+-----
+Docid: 318
+URL: http://www.ics.uci.edu/~kay/courses/4/hw/hw3.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/4/hw/hw3.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/4/hw/index.html
+Anchor text: Third Homework
+Text length: 7942
+Html length: 8983
+Number of outgoing links: 7
+http://www.ics.uci.edu/~kay/courses/4/hw/hw3.html,7
+
+-----
+Docid: 77
+URL: http://www.ics.uci.edu/~kay/courses/398a/f10.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/398a/f10.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 398A (Teaching Assistant Seminar)
+Text length: 4502
+Html length: 9776
+Number of outgoing links: 10
+http://www.ics.uci.edu/~kay/courses/398a/f10.html,10
+
+-----
+Docid: 234
+URL: http://www.ics.uci.edu/~kay/courses/131/hw/hw4.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/131/hw/hw4.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/131/hw/index.html
+Anchor text: Fourth Homework (Mini-Project)
+Text length: 10340
+Html length: 16245
+Number of outgoing links: 9
+http://www.ics.uci.edu/~kay/courses/131/hw/hw4.html,9
+
+-----
+Docid: 204
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/pair.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/pair.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i42/hw/
+Anchor text: pair programming instructions
+Text length: 5906
+Html length: 8533
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/i41/hw/pair.html,4
+
+-----
+Docid: 127
+URL: http://www.ics.uci.edu/~kay/courses/280/index.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/280/index.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/previous.html
+Anchor text: ICS 280 (Computer Law Seminar)
+Text length: 534
+Html length: 968
+Number of outgoing links: 4
+http://www.ics.uci.edu/~kay/courses/280/index.html,4
+
+-----
+Docid: 264
+URL: http://www.ics.uci.edu/~kay/courses/i41/hw/lab7.html
+Domain: 'uci.edu'
+Sub-domain: 'www.ics'
+Path: '/~kay/courses/i41/hw/lab7.html'
+Parent page: http://www.ics.uci.edu/~kay/courses/i41/hw/
+Anchor text: Seventh Lab Assignment
+Text length: 10441
+Html length: 20029
+Number of outgoing links: 5
+http://www.ics.uci.edu/~kay/courses/i41/hw/lab7.html,5
+
+-----

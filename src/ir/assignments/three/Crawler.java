@@ -5,6 +5,8 @@
 
 package ir.assignments.three;
 
+import ir.assignments.helper.Utilities;
+
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -45,13 +47,7 @@ public class Crawler extends WebCrawler{
 		//common words
 		if (page.getParseData() instanceof HtmlParseData) {
 			HtmlParseData parseData = (HtmlParseData) page.getParseData();
-			try {
-				writer = new BufferedWriter(new FileWriter(Controller.wordFile, true));
-				writer.write( parseData.getText());
-				writer.close();
-			} catch (IOException e) {
-				e.printStackTrace();
-			}
+			Controller.tokens.addAll(Utilities.tokenizeString(parseData.getText()));
 		}
 
 		try {

@@ -46,13 +46,28 @@ public class Utilities {
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}
-		
-//		for(String s : tokens){
-//			System.out.println(s);
-//		}
+
+		//		for(String s : tokens){
+		//			System.out.println(s);
+		//		}
 		return tokens;
 	}
-	
+
+	public static ArrayList<String> tokenizeString(String input){
+		ArrayList<String> tokens = new ArrayList<String>();
+		Scanner scanner = new Scanner(input);
+		while(scanner.hasNext()){
+			String token = scanner.next();
+			String[] temp = token.split("[^a-zA-Z0-9]");
+			for(String s : temp){
+				if(!s.equals(""))
+					tokens.add(s.toLowerCase());
+			}
+		}
+
+		return tokens;
+	}
+
 	/**
 	 * Takes a list of {@link Frequency}s and prints it to standard out. It also
 	 * prints out the total number of items, and the total number of unique items.
@@ -95,15 +110,15 @@ public class Utilities {
 	public static void printFrequencies(List<Frequency> frequencies) {
 		// TODO Write body!
 		int totalCount = 0;
-		
+
 		for(Frequency f : frequencies){
 			totalCount += f.getFrequency();
 		}
-		
+
 		System.out.println("Total: " + totalCount);
 		System.out.println("Unique: " + frequencies.size());
 		System.out.println("");
-		
+
 		for(Frequency f : frequencies){
 			System.out.println(f.toString());
 		}
