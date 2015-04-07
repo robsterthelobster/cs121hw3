@@ -238,10 +238,15 @@ public class JDBC1
 				Statement select = connection.createStatement();
 				ResultSet result = select.executeQuery(statement);
 				ResultSetMetaData metadata = result.getMetaData();
-				for (int i = 1; i <= metadata.getColumnCount(); i++)
+				for (int i = 1; i <= metadata.getColumnCount(); i++){
 					System.out.println("Type of column "+ i + " is " + metadata.getColumnTypeName(i));
+				}
 				while (result.next())
 				{
+					for (int i = 1; i <= metadata.getColumnCount(); i++){
+						System.out.println(result.getString(i));
+					}
+					System.out.println("");
 				}
 			}else{
 				Statement update = connection.createStatement();
