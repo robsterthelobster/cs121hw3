@@ -83,9 +83,9 @@ public class JDBC1
 	}
 
 	public static void printMenu(){
-		System.out.println("1");								//1 Choose a star, print all attributes of movies with this star
+		System.out.println("1 - look up star");					//1 Choose a star, print all attributes of movies with this star
 		System.out.println("2 - insert new star");				//2 Add a new star in
-		System.out.println("3");								//3 Insert customer
+		System.out.println("3 - insert customer");				//3 Insert customer
 		System.out.println("4 - delete customer");				//4 Delete customer
 		System.out.println("5 - metadata");						//5 Provide metadata of database
 		System.out.println("6 - SQL command");					//6 Run query
@@ -135,12 +135,11 @@ public class JDBC1
 	public static void insertStar(){
 
 		Scanner s = new Scanner(System.in);
-
-		System.out.println("Enter star id: ");
+		System.out.println("Enter star id(required): ");
 		int id = s.nextInt();
 		s.nextLine();
 
-		System.out.println("Enter star name: ");
+		System.out.println("Enter star name (required): ");
 
 		String name = s.nextLine();
 		String last = "";
@@ -157,23 +156,39 @@ public class JDBC1
 				for(int i = 1; i < sArray.length-1; i++){
 					first += " " + sArray[i];
 				}
-
 			}
 		}
-		//		System.out.println("first " + first);
-		//		System.out.println("last " + last);
 
-		System.out.println("Enter star date of birth: ");
-		System.out.println("Enter photo url: ");
+		System.out.println("Enter star date of birth (not required): ");
+		String date ="";
+		date = s.nextLine();
+		System.out.println("Enter photo url (not required): ");
+		String url ="";
+		url = s.nextLine();
 
+		//String statement = "INSERT INTO stars VALUES(788001, 'Meg', 'Ryan', '1961/11/19', 'http://movies.yahoo.com/shop?d=hc&id=1800017434&cf=pg&photoid=35058&intl=us')";
+		String statement = "";
+		if(url != "" && date != "")
+			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','" + date + "','" + url + "')";
+		//		else if(url == "" && date != "")
+		//			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','" + date + "','')";
+		//		else if(date == "" && url != "")
+		//			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','null','" + url + "')";
+		//		else if(url == "" && date == "")
+		//			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','null','')";
 
-
-
-
+		else if(url == "" && date != "")
+			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','" + date + "','')";
+		else if(date == "" && url != "")
+			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','null','" + url + "')";
+		else if(url == "" && date == "")
+			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" + last + "','null','')";
 		try {
-			Statement select = connection.createStatement();
+			Statement update = connection.createStatement();
+			int retID = update.executeUpdate(statement);
 		} catch (SQLException e) {
-			e.printStackTrace();
+			System.out.println("Bad inputs, please try again");
+			insertStar();
 		}
 	}
 
@@ -222,13 +237,11 @@ public class JDBC1
 			if(first.equalsIgnoreCase("select")){
 				Statement select = connection.createStatement();
 				ResultSet result = select.executeQuery(statement);
+				ResultSetMetaData metadata = result.getMetaData();
+				for (int i = 1; i <= metadata.getColumnCount(); i++)
+					System.out.println("Type of column "+ i + " is " + metadata.getColumnTypeName(i));
 				while (result.next())
 				{
-					System.out.println("Id = " + result.getInt(1));
-					System.out.println("Name = " + result.getString(2) + result.getString(3));
-					System.out.println("DOB = " + result.getString(4));
-					System.out.println("photoURL = " + result.getString(5));
-					System.out.println();
 				}
 			}else{
 				Statement update = connection.createStatement();
