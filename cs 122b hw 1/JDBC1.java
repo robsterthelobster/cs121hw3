@@ -84,11 +84,11 @@ public class JDBC1
 
 	public static void printMenu(){
 		System.out.println("1");								//1 Choose a star, print all attributes of movies with this star
-		System.out.println("2 - insert new star");								//2 Add a new star in
+		System.out.println("2 - insert new star");				//2 Add a new star in
 		System.out.println("3");								//3 Insert customer
-		System.out.println("4");								//4 Delete customer
-		System.out.println("5 - metadata");								//5 Provide metadata of database
-		System.out.println("6");								//6 Run query
+		System.out.println("4 - delete customer");				//4 Delete customer
+		System.out.println("5 - metadata");						//5 Provide metadata of database
+		System.out.println("6 - SQL command");					//6 Run query
 		System.out.println("7 - exit to login");				//7 Exit menu
 		System.out.println("8 - exit program");					//8 Exit program
 	}
@@ -113,6 +113,7 @@ public class JDBC1
 			metadata();
 			break;
 		case 6:
+			sqlCommand();
 			break;
 		case 7:
 			try {
@@ -207,6 +208,37 @@ public class JDBC1
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
+	}
 
+	public static void sqlCommand(){
+		System.out.println("Enter a valid SQL command: ");
+		Scanner s = new Scanner(System.in);
+		String statement = s.nextLine();
+		String[] arr = statement.split(" ");
+		String first = arr[0];
+		//System.out.println(statement);
+
+		try {
+			if(first.equalsIgnoreCase("select")){
+				Statement select = connection.createStatement();
+				ResultSet result = select.executeQuery(statement);
+				while (result.next())
+				{
+					System.out.println("Id = " + result.getInt(1));
+					System.out.println("Name = " + result.getString(2) + result.getString(3));
+					System.out.println("DOB = " + result.getString(4));
+					System.out.println("photoURL = " + result.getString(5));
+					System.out.println();
+				}
+			}else{
+				Statement update = connection.createStatement();
+				int retID = update.executeUpdate(statement);
+				System.out.println("retID = " + retID);
+			}
+
+		} catch (SQLException e) {
+			System.out.println("bad command, try again.");
+			sqlCommand();
+		}
 	}
 }
