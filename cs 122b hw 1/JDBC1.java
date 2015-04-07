@@ -52,7 +52,7 @@ public class JDBC1
 		//                       System.out.println();
 		//           }
 	}
-	
+
 	public static Connection quickLogin(){
 		try {
 			return DriverManager.getConnection("jdbc:mysql:///moviedb","root", "robin");
@@ -84,10 +84,10 @@ public class JDBC1
 
 	public static void printMenu(){
 		System.out.println("1");								//1 Choose a star, print all attributes of movies with this star
-		System.out.println("2");								//2 Add a new star in
+		System.out.println("2 - insert new star");								//2 Add a new star in
 		System.out.println("3");								//3 Insert customer
 		System.out.println("4");								//4 Delete customer
-		System.out.println("5");								//5 Provide metadata of database
+		System.out.println("5 - metadata");								//5 Provide metadata of database
 		System.out.println("6");								//6 Run query
 		System.out.println("7 - exit to login");				//7 Exit menu
 		System.out.println("8 - exit program");					//8 Exit program
@@ -97,17 +97,20 @@ public class JDBC1
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Choose from the menu");
 		int select = scanner.nextInt();
-		
+
 		switch(select){
 		case 1:
 			break;
 		case 2:
+			insertStar();
 			break;
 		case 3:
 			break;
 		case 4:
+			deleteCustomer();
 			break;
 		case 5:
+			metadata();
 			break;
 		case 6:
 			break;
@@ -126,5 +129,84 @@ public class JDBC1
 		default:
 			System.out.println("Not a valid choice.");
 		}
+	}
+
+	public static void insertStar(){
+
+		Scanner s = new Scanner(System.in);
+
+		System.out.println("Enter star id: ");
+		int id = s.nextInt();
+		s.nextLine();
+
+		System.out.println("Enter star name: ");
+
+		String name = s.nextLine();
+		String last = "";
+		String first = "";
+
+		String[] sArray = null;
+		while(sArray == null || sArray.length == 0){
+			sArray = name.split(" ");
+			if(sArray.length == 1){
+				last = sArray[0];
+			}else{
+				first = sArray[0];
+				last = sArray[sArray.length-1];
+				for(int i = 1; i < sArray.length-1; i++){
+					first += " " + sArray[i];
+				}
+
+			}
+		}
+		//		System.out.println("first " + first);
+		//		System.out.println("last " + last);
+
+		System.out.println("Enter star date of birth: ");
+		System.out.println("Enter photo url: ");
+
+
+
+
+
+		try {
+			Statement select = connection.createStatement();
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void metadata(){
+		try {
+			Statement select = connection.createStatement();
+
+			ResultSet result = select.executeQuery("Select * from stars");
+			// Get metatdata from stars; print # of attributes in table
+			System.out.println("The results of the query");
+
+			ResultSetMetaData metadata = result.getMetaData();
+			System.out.println("There are " + metadata.getColumnCount() + " columns");
+
+			// Print type of each attribute
+			for (int i = 1; i <= metadata.getColumnCount(); i++)
+				System.out.println("Type of column "+ i + " is " + metadata.getColumnTypeName(i));
+
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+
+	public static void deleteCustomer(){
+		System.out.println("Enter customer id to delete: ");
+		Scanner s = new Scanner(System.in);
+		int id = s.nextInt();
+		try {
+			Statement update = connection.createStatement();
+			int retID = update.executeUpdate("delete from customers where id = "+id);
+			System.out.println("retID = " + retID);
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+
 	}
 }
