@@ -21,8 +21,8 @@ public class JDBC1 {
 
 		while (true) {
 			while (connection == null) {
-				// connection = login();
-				connection = quickLogin();
+				connection = login();
+				//connection = quickLogin();
 			}
 			printMenu();
 			menuInput();
@@ -111,6 +111,7 @@ public class JDBC1 {
 			insertStar();
 			break;
 		case 3:
+			insertCustomer();
 			break;
 		case 4:
 			deleteCustomer();
@@ -330,15 +331,15 @@ public class JDBC1 {
 		// statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" +
 		// last + "','null','')";
 
-		else if (url == "" && date != "")
-			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','"
-					+ last + "','" + date + "','')";
-		else if (date == "" && url != "")
-			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','"
-					+ last + "','null','" + url + "')";
-		else if (url == "" && date == "")
-			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','"
-					+ last + "','null','')";
+		else if(url == "" && date != "")
+			statement = "INSERT INTO stars (id, first_name, last_name, dob) VALUES" +
+					"(" + id + ",'" + first + "','" + last + "','" + date + "')";
+		else if(date == "" && url != "")
+			statement = "INSERT INTO stars (id, first_name, last_name, photo_url) VALUES" +
+					"(" + id + ",'" + first + "','" + last + "','" + url + "')";
+		else if(url == "" && date == "")
+			statement = "INSERT INTO stars (id, first_name, last_name) VALUES" +
+					"(" + id + ",'" + first + "','" + last + "')";
 		try {
 			Statement update = connection.createStatement();
 			int retID = update.executeUpdate(statement);
@@ -417,5 +418,59 @@ public class JDBC1 {
 			System.out.println("bad command, try again.");
 			sqlCommand();
 		}
+	}
+	
+	public static void insertCustomer(){
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter id (required): ");
+		int id = s.nextInt();  s.nextLine();
+		System.out.println("Enter first and last name (required)");
+		String name = s.nextLine();
+		String first = "", last = "";
+		
+		String[] sArray = null;
+		while (sArray == null || sArray.length == 0) {
+			sArray = name.split(" ");
+			if (sArray.length == 1) {
+				last = sArray[0];
+			} else {
+				first = sArray[0];
+				last = sArray[sArray.length - 1];
+				for (int i = 1; i < sArray.length - 1; i++) {
+					first += " " + sArray[i];
+				}
+			}
+		}
+		
+		System.out.println("Enter credit card id (required): ");
+		String ccid = s.nextLine();
+		System.out.println("Enter address (required): ");
+		String addr = s.nextLine();
+		System.out.println("Enter email (required): ");
+		String email = s.nextLine();
+		System.out.println("Enter password (required): ");
+		String password = s.nextLine();
+		
+		Statement selectStatement, insertStatement;
+		String statement = "";
+		statement = "INSERT INTO customers VALUES(" + id + ",'" + first + "','" +
+					last + "','" + ccid + "','" + addr + "','" + email + "','" + password + "');";   
+		try {
+			selectStatement = connection.createStatement();
+			ResultSet result = selectStatement.executeQuery("SELECT id, first_name, last_name FROM creditcards WHERE id = " + ccid);
+			if(result.next()){
+				//System.out.println(result.getString("id"));
+				insertStatement = connection.createStatement();
+				int retID = insertStatement.executeUpdate(statement);
+				System.out.println("Inserted new customer.");
+			}
+			else{
+				System.out.println("Customer credit card not found.");
+			}
+		} catch (SQLException e) {
+			System.out.println("bad data, try again");
+			insertCustomer();
+		}
+		
 	}
 }
