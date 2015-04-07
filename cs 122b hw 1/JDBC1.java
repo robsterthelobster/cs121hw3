@@ -318,31 +318,21 @@ public class JDBC1 {
 		// String statement =
 		// "INSERT INTO stars VALUES(788001, 'Meg', 'Ryan', '1961/11/19', 'http://movies.yahoo.com/shop?d=hc&id=1800017434&cf=pg&photoid=35058&intl=us')";
 		String statement = "";
-		if (url != "" && date != "")
-			statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','"
-					+ last + "','" + date + "','" + url + "')";
-		// else if(url == "" && date != "")
-		// statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" +
-		// last + "','" + date + "','')";
-		// else if(date == "" && url != "")
-		// statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" +
-		// last + "','null','" + url + "')";
-		// else if(url == "" && date == "")
-		// statement = "INSERT INTO stars VALUES(" + id + ",'" + first + "','" +
-		// last + "','null','')";
+		
+		statement = "INSERT INTO stars (id, first_name, last_name) VALUES("+id+",'"+first+"','"+last+"')";
 
-		else if(url == "" && date != "")
-			statement = "INSERT INTO stars (id, first_name, last_name, dob) VALUES" +
-					"(" + id + ",'" + first + "','" + last + "','" + date + "')";
-		else if(date == "" && url != "")
-			statement = "INSERT INTO stars (id, first_name, last_name, photo_url) VALUES" +
-					"(" + id + ",'" + first + "','" + last + "','" + url + "')";
-		else if(url == "" && date == "")
-			statement = "INSERT INTO stars (id, first_name, last_name) VALUES" +
-					"(" + id + ",'" + first + "','" + last + "')";
 		try {
 			Statement update = connection.createStatement();
 			int retID = update.executeUpdate(statement);
+			
+			if(!url.equals("")){
+				Statement us = connection.createStatement();
+				retID = us.executeUpdate("INSERT INTO stars (photo_url) VALUES('" + url + "')");
+			}else if(!date.equals("")){
+				Statement ds = connection.createStatement();
+				retID = ds.executeUpdate("INSERT INTO stars (dob) VALUES('" + date + "')");
+			}
+			
 		} catch (SQLException e) {
 			System.out.println("Bad inputs, please try again");
 			insertStar();
