@@ -352,20 +352,27 @@ public class JDBC1 {
 	public static void metadata() {
 		try {
 			Statement select = connection.createStatement();
-
-			ResultSet result = select.executeQuery("Select * from stars");
+			Statement tables = connection.createStatement();
+			ResultSet tablesResults = tables.executeQuery("show tables");
+			
 			// Get metatdata from stars; print # of attributes in table
 			System.out.println("The results of the query");
 
-			ResultSetMetaData metadata = result.getMetaData();
-			System.out.println("There are " + metadata.getColumnCount()
-					+ " columns");
-
-			// Print type of each attribute
-			for (int i = 1; i <= metadata.getColumnCount(); i++)
-				System.out.println("Type of column " + i + " is "
-						+ metadata.getColumnTypeName(i));
-
+			while (tablesResults.next()){
+				// Print out name of each table
+				String tableName = tablesResults.getString(1);
+				System.out.println("TABLE = " + tableName);
+				
+				// Get the metadata from each table
+				ResultSet result = select.executeQuery("select * from " + tableName);	
+				ResultSetMetaData metadata = result.getMetaData();
+	
+				// Print name and type of each attribute
+				for (int i = 1; i <= metadata.getColumnCount(); i++)
+					System.out.println("Column " + i + ") Name: " + metadata.getColumnName(i)+ " ; Type: "
+							+ metadata.getColumnTypeName(i));
+				System.out.println("");
+			}
 		} catch (SQLException e) {
 			e.printStackTrace();
 		}
